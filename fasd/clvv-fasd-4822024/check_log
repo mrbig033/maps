@@ -1,0 +1,36 @@
+======================== Installation successful ==========================
+
+Copying documentation directory...
+./
+./LICENSE
+./INSTALL.md
+./README.md
+
+Copying files to the temporary directory...OK
+
+Stripping ELF binaries and libraries...OK
+
+Compressing man pages...OK
+
+Building file list...OK
+
+Building Debian package...OK
+
+Installing Debian package...OK
+
+Erasing temporary files...OK
+
+Deleting temp dir...OK
+
+
+**********************************************************************
+
+ Done. The new package has been installed and saved to
+
+ /media/walt/Home/My_Apps/apps/fasd/clvv-fasd-4822024/clvv-fasd_4822024-1_amd64.deb
+
+ You can remove it from your system anytime using: 
+
+      dpkg -r clvv-fasd
+
+**********************************************************************
