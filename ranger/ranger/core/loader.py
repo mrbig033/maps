@@ -51,11 +51,11 @@ class Loadable(object):
 class CopyLoader(Loadable, FileManagerAware):  # pylint: disable=too-many-instance-attributes
     progressbar_supported = True
 
-    def __init__(self, copy_buffer, do_cut=False, overwrite=False):
+    def __init__(self, copy_buffer, do_cut=False, overwrite=False, dest=None):
         self.copy_buffer = tuple(copy_buffer)
         self.do_cut = do_cut
         self.original_copy_buffer = copy_buffer
-        self.original_path = self.fm.thistab.path
+        self.original_path = dest if dest is not None else self.fm.thistab.path
         self.overwrite = overwrite
         self.percent = 0
         if self.copy_buffer:
@@ -101,9 +101,10 @@ class CopyLoader(Loadable, FileManagerAware):  # pylint: disable=too-many-instan
                     if path == fobj.path or str(path).startswith(fobj.path):
                         tag = self.fm.tags.tags[path]
                         self.fm.tags.remove(path)
-                        self.fm.tags.tags[
-                            path.replace(fobj.path, self.original_path + '/' + fobj.basename)
-                        ] = tag
+                        new_path = path.replace(
+                            fobj.path,
+                            os.path.join(self.original_path, fobj.basename))
+                        self.fm.tags.tags[new_path] = tag
                         self.fm.tags.dump()
                 n = 0
                 for n in shutil_g.move(src=fobj.path, dst=self.original_path,
@@ -194,6 +195,7 @@ class CommandLoader(  # pylint: disable=too-many-instance-attributes
                 selectlist.append(process.stdout)
             if not self.silent:
                 selectlist.append(process.stderr)
+            read_stdout = None
             while process.poll() is None:
                 yield
                 if self.finished:
@@ -210,10 +212,11 @@ class CommandLoader(  # pylint: disable=too-many-instance-attributes
                                 self.fm.notify(read, bad=True)
                         elif robjs == process.stdout:
                             read = robjs.read(512)
-                            if py3:
-                                read = safe_decode(read)
                             if read:
-                                self.stdout_buffer += read
+                                if read_stdout is None:
+                                    read_stdout = read
+                                else:
+                                    read_stdout += read
                 except select.error:
                     sleep(0.03)
             if not self.silent:
@@ -223,9 +226,12 @@ class CommandLoader(  # pylint: disable=too-many-instance-attributes
                     self.fm.notify(line, bad=True)
             if self.read:
                 read = process.stdout.read()
+                if read:
+                    read_stdout += read
+            if read_stdout:
                 if py3:
-                    read = safe_decode(read)
-                self.stdout_buffer += read
+                    read_stdout = safe_decode(read_stdout)
+                self.stdout_buffer += read_stdout
         self.finished = True
         self.signal_emit('after', process=process, loader=self)
 

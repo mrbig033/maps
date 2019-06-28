@@ -996,7 +996,7 @@ class rename_append(Command):
         relpath = tfile.relative_path.replace(MACRO_DELIMITER, MACRO_DELIMITER_ESC)
         basename = tfile.basename.replace(MACRO_DELIMITER, MACRO_DELIMITER_ESC)
 
-        if basename.find('.') <= 0:
+        if basename.find('.') <= 0 or os.path.isdir(relpath):
             self.fm.open_console('rename ' + relpath)
             return
 
@@ -1028,8 +1028,9 @@ class chmod(Command):
     def execute(self):
         mode_str = self.rest(1)
         if not mode_str:
-            if not self.quantifier:
-                self.fm.notify("Syntax: chmod <octal number>", bad=True)
+            if self.quantifier is None:
+                self.fm.notify("Syntax: chmod <octal number> "
+                               "or specify a quantifier", bad=True)
                 return
             mode_str = str(self.quantifier)
 
@@ -1063,7 +1064,8 @@ class bulkrename(Command):
     After you close it, it will be executed.
     """
 
-    def execute(self):  # pylint: disable=too-many-locals,too-many-statements
+    def execute(self):
+        # pylint: disable=too-many-locals,too-many-statements,too-many-branches
         import sys
         import tempfile
         from ranger.container.file import File
@@ -1092,11 +1094,23 @@ class bulkrename(Command):
         # Generate script
         cmdfile = tempfile.NamedTemporaryFile()
         script_lines = []
-        script_lines.append("# This file will be executed when you close the editor.\n")
-        script_lines.append("# Please double-check everything, clear the file to abort.\n")
-        script_lines.extend("mv -vi -- %s %s\n" % (esc(old), esc(new))
-                            for old, new in zip(filenames, new_filenames) if old != new)
-        script_content = "".join(script_lines)
+        script_lines.append("# This file will be executed when you close the"
+                            " editor.")
+        script_lines.append("# Please double-check everything, clear the file"
+                            " to abort.")
+        new_dirs = []
+        for old, new in zip(filenames, new_filenames):
+            if old != new:
+                basepath, _ = os.path.split(new)
+                if (basepath is not None and basepath not in new_dirs
+                        and not os.path.isdir(basepath)):
+                    script_lines.append("mkdir -vp -- {dir}".format(
+                        dir=esc(basepath)))
+                    new_dirs.append(basepath)
+                script_lines.append("mv -vi -- {old} {new}".format(
+                    old=esc(old), new=esc(new)))
+        # Make sure not to forget the ending newline
+        script_content = "\n".join(script_lines) + "\n"
         if py3:
             cmdfile.write(script_content.encode("utf-8"))
         else:
@@ -1545,6 +1559,61 @@ class filter_inode_type(Command):
         self.fm.thisdir.refilter()
 
 
+class filter_stack(Command):
+    """
+    :filter_stack ...
+
+    Manages the filter stack.
+
+        filter_stack add FILTER_TYPE ARGS...
+        filter_stack pop
+        filter_stack decompose
+        filter_stack rotate [N=1]
+        filter_stack clear
+        filter_stack show
+    """
+    def execute(self):
+        from ranger.core.filter_stack import SIMPLE_FILTERS, FILTER_COMBINATORS
+
+        subcommand = self.arg(1)
+
+        if subcommand == "add":
+            try:
+                self.fm.thisdir.filter_stack.append(
+                    SIMPLE_FILTERS[self.arg(2)](self.rest(3))
+                )
+            except KeyError:
+                FILTER_COMBINATORS[self.arg(2)](self.fm.thisdir.filter_stack)
+        elif subcommand == "pop":
+            self.fm.thisdir.filter_stack.pop()
+        elif subcommand == "decompose":
+            inner_filters = self.fm.thisdir.filter_stack.pop().decompose()
+            if inner_filters:
+                self.fm.thisdir.filter_stack.extend(inner_filters)
+        elif subcommand == "clear":
+            self.fm.thisdir.filter_stack = []
+        elif subcommand == "rotate":
+            rotate_by = int(self.arg(2) or 1)
+            self.fm.thisdir.filter_stack = (
+                self.fm.thisdir.filter_stack[-rotate_by:]
+                + self.fm.thisdir.filter_stack[:-rotate_by]
+            )
+        elif subcommand == "show":
+            stack = list(map(str, self.fm.thisdir.filter_stack))
+            pager = self.fm.ui.open_pager()
+            pager.set_source(["Filter stack: "] + stack)
+            pager.move(to=100, percentage=True)
+            return
+        else:
+            self.fm.notify(
+                "Unknown subcommand: {}".format(subcommand),
+                bad=True
+            )
+            return
+
+        self.fm.thisdir.refilter()
+
+
 class grep(Command):
     """:grep <string>
 
@@ -1583,6 +1652,17 @@ class flat(Command):
         self.fm.thisdir.unload()
         self.fm.thisdir.flat = level
         self.fm.thisdir.load_content()
+
+
+class reset_previews(Command):
+    """:reset_previews
+
+    Reset the file previews.
+    """
+    def execute(self):
+        self.fm.previews = {}
+        self.fm.ui.need_redraw = True
+
 
 # Version control commands
 # --------------------------------

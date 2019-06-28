@@ -28,9 +28,9 @@ ranger is a console file manager with VI key bindings.
 
 =head1 RESOURCES
 
-I<This manual> contains instructions on how to use and configure ranger.
+This I<manual> contains instructions on how to use and configure ranger.
 
-I<Inside ranger>, you can press I<?> for a list of key bindings, commands or
+Inside I<ranger>, you can press I<?> for a list of key bindings, commands or
 settings.
 
 The F<README> contains install instructions.
@@ -209,6 +209,9 @@ This does not work over ssh, requires certain terminals (tested on "xterm" and
 To enable this feature, install the program "w3m" and set the option
 C<preview_images_method> to w3m.
 
+When using a terminal with a nonzero border which is not automatically detected, the w3m preview will be misaligned.
+Use the C<w3m_offset> option to manually adjust the image offset. This should be the same value as the terminal's border value.
+
 =head3 iTerm2
 
 This only works in iTerm2 compiled with image preview support, but works over
@@ -283,13 +286,37 @@ are in different directories:
 Macros for file paths are generally shell-escaped so they can be used in the
 C<shell> command.
 
-Additionally, if you create a key binding that uses <any>, a special statement
-which accepts any key, then the macro %any (or %any0, %any1, %any2, ...) can be
-used in the command to get the key that was pressed.
+When mapping keys you can use the placeholder <any>, the key entered in that
+position can be used through the %any and %any_path macros. (When using
+multiple <any> placeholders you can index the macros: %any0, %any_path0, %any1,
+%any_path1...) The macro %any will be replaced with the key pressed in the
+position of the <any> placeholder. The macro %any_path will be replaced with
+the path of the bookmark mapped to the key pressed in the position of the
+<any> placeholder. For example this macro can be used to echo the key that was
+pressed after "c":
+
+ map c<any> echo %any
+
+%any is used in the ranger configuration to create a keybinding for adding a
+bookmark. c<set_bookmark> creates a bookmark for the current directory and the
+key for the bookmark is the first supplied argument. In this case the key
+pressed after "m":
+
+ map m<any> set_bookmark %any
+
+The %any_path macro can be used to echo the path of the bookmark that is set to
+the key pressed after "c":
+
+ map c<any> echo %any_path
+
+A practical example of the use of %any_path is the pasting of cut/copied files
+to a bookmarked directory:
+
+ map p'<any> paste dest=%any_path
 
 The macro %rangerdir expands to the directory of ranger's python library, you
 can use it for something like this command:
-  alias show_commands shell less %rangerdir/config/commands.py
+ alias show_commands shell less %rangerdir/config/commands.py
 
 %confdir expands to the directory given by B<--confdir>.
 
@@ -317,7 +344,7 @@ Note: The bookmarks ' (Apostrophe) and ` (Backtick) are the same.
 =head2 RIFLE
 
 Rifle is the file opener of ranger.  It can be used as a standalone program or
-a python module.  It is located at F<ranger/ext/rifle.py>.  In contrast to
+a python module.  It is located at F<$repo/ranger/ext/rifle.py>.  In contrast to
 other, more simple file openers, rifle can automatically find installed
 programs so it can be used effectively out of the box on a variety of systems.
 
@@ -329,14 +356,16 @@ by typing "<rulenumber><enter>".  If you use rifle standalone, you can list all
 rules with the "-l" option and pick a rule with "-p <number>".
 
 The rules, along with further documentation, are contained in
-F<ranger/config/rifle.conf>.
+F<$repo/ranger/config/rifle.conf>.
 
 =head2 FLAGS
 
 Flags give you a way to modify the behavior of the spawned process.  They are
 used in the commands C<:open_with> (key "r") and C<:shell> (key "!").
 
- f   Fork the process.  (Run in background)
+ f   Fork the process, i.e. run in background.  Please use this flag instead of
+     calling "disown" or "nohup", to avoid killing the background command when
+     pressing Ctrl+C in ranger.
  c   Run the current file only, instead of the selection
  r   Run application with root privilege (requires sudo)
  t   Run application in a new terminal window
@@ -597,6 +626,10 @@ to use to open the current file selection.
 
 Open the console with the content "cd "
 
+=item ^P
+
+Open the console with the most recent command.
+
 =item Alt-I<N>
 
 Open a tab. N has to be a number from 0 to 9. If the tab doesn't exist yet, it
@@ -620,6 +653,62 @@ A key chain that allows you to quickly change the line mode of all the files of
 the current directory.  For a more permanent solution, use the command
 "default_linemode" in your rc.conf.
 
+=item .n
+
+Apply a new filename filter.
+
+=item .m
+
+Apply a new mimetype filter.
+
+=item .d
+
+Apply the typefilter "directory".
+
+=item .f
+
+Apply the typefilter "file".
+
+=item .l
+
+Apply the typefilter "symlink".
+
+=item .|
+
+Combine the two topmost filters from the filter stack in the "OR"
+relationship, instead of the "AND" used implicitly.
+
+=item .&
+
+Explicitly combine the two topmost filters in the "AND"
+relationship. Usually not needed though might be useful in more
+complicated scenarios.
+
+=item .!
+
+Negate the topmost filter.
+
+=item .r
+
+Rotate the filter stack by N elements. Just confirm with enter to
+rotate by 1, i.e. move the topmost element to the bottom of the stack.
+
+=item .c
+
+Clear the filter stack.
+
+=item .*
+
+Decompose the topmost filter combinator (e.g. C<.!>, C<.|>).
+
+=item .p
+
+Pop the topmost filter from the filter stack.
+
+=item ..
+
+Show the current filter stack state.
+
 =back
 
 =head2 READLINE-LIKE BINDINGS IN THE CONSOLE
@@ -637,6 +726,14 @@ Move up and down (P for previous, N for Next)
 =item ^A, ^E
 
 Move to the start or to the end
+
+=item Alt-B, Alt-LEFT
+
+Move backwards by words.
+
+=item Alt-F, Alt-RIGHT
+
+Move forwards by words.
 
 =item ^D
 
@@ -788,9 +885,14 @@ Display the free disk space in the status bar?
 
 Display tags in all columns?
 
-=item draw_borders [bool]
+=item draw_borders [string]
 
-Draw borders around columns?
+Draw borders around or between the columns? Possible values are:
+
+ none           no borders of any sort
+ outline        draw an outline around all the columns
+ separators     draw only vertical lines between columns
+ both           both of the above
 
 =item draw_progress_bar_in_status_bar [bool]
 
@@ -831,6 +933,10 @@ Otherwise the submaps are replaced with "...".
 =item hostname_in_titlebar [bool]
 
 Show hostname in titlebar?
+
+=item size_in_bytes [bool]
+
+Print file sizes in bytes instead of the default human-readable format.
 
 =item idle_delay [integer]
 
@@ -886,6 +992,9 @@ Start line numbers from 1.  Possible values are:
 
 Open all images in this directory when running certain image viewers like feh
 or sxiv?  You can still open selected files by marking them.
+
+If there would be too many files for the system to handle, this option
+will be temporarily disabled automatically.
 
 =item padding_right [bool]
 
@@ -1046,6 +1155,12 @@ B<multipane> to use multiple panes (one per tab) similar to midnight-commander.
 Delay in seconds before displaying an image with the w3m method.
 Increase it in case of experiencing display corruption.
 
+=item w3m_offset [int]
+
+Offset in pixels for the inner border of the terminal. Some terminals require
+the offset to be specified explicitly, among others st and UXterm, some don't
+like urxvt.
+
 =item wrap_scroll [bool]
 
 Enable scroll wrapping - moving down while on the last item will wrap around to
@@ -1063,7 +1178,7 @@ Enable this if key combinations with the Alt Key don't work for you.
 
 You can enter the commands in the console which is opened by pressing ":".
 
-You can always get a list of the currently existing commands by typing "2?" in
+You can always get a list of the currently existing commands by typing "?c" in
 ranger.  For your convenience, this is a list of the "public" commands including their parameters, excluding descriptions:
 
  alias [newcommand] [oldcommand]
@@ -1294,12 +1409,26 @@ Flags:
 
 Sets the linemode of all files in the current directory.  The linemode may be:
 
- "filename": display each line as "<basename>...<size>"
- "fileinfo": display each line as "<basename>...<file(1) output>"
- "permissions": display each line as "<permissions> <owner> <group> <basename>"
- "metatitle": display metadata from .metadata.json files if
-     available, fall back to the "filename" linemode if no
-     metadata was found.  See :meta command.
+ "filename":
+   display each line as "<basename>...<size>"
+ "fileinfo":
+   display each line as "<basename>...<file(1) output>"
+ "mtime":
+   display each line as "<basename>...<mtime>" in ISO format
+ "humanreadablemtime":
+   display each line as "<basename>...<mtime>" in a human readable
+   format, more precise the more recent.
+ "sizemtime":
+   display each line as "<basename>...<size> <mtime>" in ISO format
+ "humanreadablesizemtime":
+   display each line as "<basename>...<size> <mtime>" in a human
+   readable format, more precise the more recent.
+ "permissions":
+   display each line as "<permissions> <owner> <group> <basename>"
+ "metatitle":
+   display metadata from .metadata.json files if available, fall back
+   to the "filename" linemode if no metadata was found.
+   See :meta command.
 
 The custom linemodes may be added by subclassing the I<LinemodeBase> class.
 See the I<ranger.core.linemode> module for some examples.
@@ -1499,6 +1628,10 @@ This can be used to re-evaluate the rc.conf file after changing it:
 
  map X chain shell vim -p %confdir/rc.conf %rangerdir/config/rc.conf; source %confdir/rc.conf
 
+=item scroll_preview I<value>
+
+Scroll the file preview by I<value> lines.
+
 =item terminal
 
 Spawns the I<x-terminal-emulator> starting in the current directory.
@@ -1657,7 +1790,7 @@ by checking for this variable.
 =item RANGER_LOAD_DEFAULT_RC
 
 If this variable is set to FALSE, ranger will not load the default rc.conf.
-This can save time if you copied the whole rc.conf to ~/.config/ranger/ and
+This can save time if you copied the whole rc.conf to I<~/.config/ranger/> and
 don't need the default one at all.
 
 =item VISUAL
@@ -1680,6 +1813,28 @@ the "S" key.  Defaults to "/bin/sh".
 Defines the terminal emulator command that ranger is going to use with the
 :terminal command and the "t" run flag.  Defaults to "xterm".
 
+=item PYGMENTIZE_STYLE
+
+Specifies the theme to be used for syntax highlighting when I<pygmentize> is
+installed, unless I<highlight> is also installed. Find out possible values by
+running:
+ python -c 'import pygments.styles; [print(stl) for stl in
+ pygments.styles.get_all_styles()]'
+
+=item HIGHLIGHT_STYLE
+
+Specifies the theme to be used for syntax highlighting when I<highlight> is
+installed. Find out possible values by running C<highlight --list-themes>.
+
+=item HIGHLIGHT_TABWIDTH
+
+Specifies the number of spaces to use to replace tabs in I<highlight>ed files.
+
+=item HIGHLIGHT_OPTIONS
+
+I<highlight> will pick up command line options specified in this variable. A
+C<--style=> option specified here will override C<HIGHLIGHT_STYLE>. Similarly,
+C<--replace-tabs=> will override C<HIGHLIGHT_TABWIDTH>.
 
 =item XDG_CONFIG_HOME
 
@@ -1739,7 +1894,7 @@ GNU General Public License 3 or (at your option) any later version.
 ranger is maintained with the git version control system.  To fetch a fresh
 copy, run:
 
- git clone git://git.savannah.nongnu.org/ranger.git
+ git clone git@github.com:ranger/ranger.git
 
 
 

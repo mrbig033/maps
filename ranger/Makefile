@@ -7,12 +7,20 @@ NAME_RIFLE = rifle
 VERSION_RIFLE = $(VERSION)
 SNAPSHOT_NAME ?= $(NAME)-$(VERSION)-$(shell git rev-parse HEAD | cut -b 1-8).tar.gz
 # Find suitable python version (need python >= 2.6 or 3.1):
-PYTHON ?= $(shell python -c 'import sys; sys.exit(sys.version < "2.6")' && \
-	which python || which python3.3 || which python3.2 || which python3.1 || \
-	which python3 || which python2.7 || which python2.6)
+PYTHON ?= $(shell \
+	     (python -c 'import sys; sys.exit(sys.version < "2.6")' && \
+	      which python) \
+	     || (which python3) \
+	     || (python2 -c 'import sys; sys.exit(sys.version < "2.6")' && \
+	         which python2) \
+	   )
+ifeq ($(PYTHON),)
+  $(error No suitable python found.)
+endif
 SETUPOPTS ?= '--record=install_log.txt'
 DOCDIR ?= doc/pydoc
 DESTDIR ?= /
+PREFIX ?= /usr/local
 PYOPTIMIZE ?= 1
 FILTER ?= .
 
@@ -48,7 +56,8 @@ help:
 
 install:
 	$(PYTHON) setup.py install $(SETUPOPTS) \
-		'--root=$(DESTDIR)' --optimize=$(PYOPTIMIZE)
+		'--prefix=$(PREFIX)' '--root=$(DESTDIR)' \
+		--optimize=$(PYOPTIMIZE)
 
 compile: clean
 	PYTHONOPTIMIZE=$(PYOPTIMIZE) $(PYTHON) -m compileall -q ranger
@@ -89,7 +98,8 @@ test_flake8:
 
 test_doctest:
 	@echo "Running doctests..."
-	@for FILE in $(shell grep -IHm 1 doctest -r ranger | grep $(FILTER) | cut -d: -f1); do \
+	@set -e; \
+	for FILE in $(shell grep -IHm 1 doctest -r ranger | grep $(FILTER) | cut -d: -f1); do \
 		echo "Testing $$FILE..."; \
 		RANGER_DOCTEST=1 PYTHONPATH=".:"$$PYTHONPATH ${PYTHON} $$FILE; \
 	done

@@ -183,7 +183,11 @@ class StatusBar(Widget):  # pylint: disable=too-many-instance-attributes
                 left.add(target.infostring.replace(" ", ""))
                 left.add_space()
 
-            left.add(strftime(self.timeformat, localtime(stat.st_mtime)), 'mtime')
+            try:
+                date = strftime(self.timeformat, localtime(stat.st_mtime))
+            except OSError:
+                date = '?'
+            left.add(date, 'mtime')
 
         directory = target if target.is_directory else \
             target.fm.get_directory(os.path.dirname(target.path))
@@ -277,7 +281,7 @@ class StatusBar(Widget):  # pylint: disable=too-many-instance-attributes
             right.add(human_readable(target.disk_usage, separator='') + " sum")
             if self.settings.display_free_space_in_status_bar:
                 try:
-                    free = get_free_space(target.mount_path)
+                    free = get_free_space(target.path)
                 except OSError:
                     pass
                 else:
