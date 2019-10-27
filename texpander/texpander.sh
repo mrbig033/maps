@@ -42,8 +42,9 @@ then
     echo -n "$(cat "$path")" | xsel -b -i
 
     # Paste text into current active window
-    sleep 0.3
-    xdotool key shift+Insert
+    # https://github.com/leehblue/texpander/issues/31#issuecomment-406825663
+    # sleep 0.3
+    xdotool key shift+Insert space
 
     # If you're having trouble pasting into apps, use xdotool
     # to type into the app instead. This is a little bit slower
