@@ -1,0 +1,7 @@
+# Debian Stable.
+deb http://alcateia.ufscar.br/debian/ stretch main contrib non-free 
+deb http://security.debian.org/ stretch/updates main contrib non-free
+deb-src http://alcateia.ufscar.br/debian/ stretch main contrib non-free 
+
+#stretch backports
+deb http://deb.debian.org/debian stretch-backports main

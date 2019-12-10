@@ -1,0 +1,2736 @@
+accountsservice 0.6.43-1 Debian
+acl 2.2.52-3+b1 Debian
+acpi 1.7-1+b1 Debian
+acpi-fakekey 0.142-8+b1 Debian
+acpi-support-base 0.142-8 Debian
+acpid 1:2.0.28-1+b1 Debian
+adduser 3.115 Debian
+adobe-flash-properties-gtk 1:20191009.1-1mx17+1 MX repository
+adobe-flashplugin 1:20191009.1-1mx17+1 MX repository
+adwaita-icon-theme 3.22.0-1+deb9u1 Debian
+aglfn 1.7-3 Debian
+aisleriot 1:3.22.1-1 Debian
+alsa-tools 1.1.3-1 Debian
+alsa-utils 1.1.3-1 Debian
+amd64-microcode 3.20181128.1~mx17+1 MX repository
+anacron 2.3-24 Debian
+antix-archive-keyring 20019.3.13 repo.antixlinux.com
+antix-libs 0.6.15+1 MX repository
+apt 1.4.9 Debian
+apt-clone 0.4.1 Debian
+apt-mx 19.04.01 MX repository
+apt-notifier 19.05.08mx17+1 MX repository
+apt-transport-https 1.4.9 Debian
+apt-utils 1.4.9 Debian
+apt-xapian-index 0.49 Debian
+aptitude 0.8.7-1 Debian
+aptitude-common 0.8.7-1 Debian
+arandr 0.1.9-2 Debian
+arc-theme 20181022-1~mx17+1 MX repository
+arc-theme-hdpi 20171115.mx17 MX repository
+arc-theme-xhdpi 20171115.mx17 MX repository
+aspell 0.60.7~20110707-3+b2 Debian
+aspell-en 2016.11.20-0-0.1 Debian
+aspell-pt-br 20131030-9 Debian
+asunder 2.8-5 Debian
+asymptote 2.38-2+b2 Debian
+at 3.1.20-3 Debian
+at-spi2-core 2.22.0-6+deb9u1 Debian
+atmel-firmware 1.3-4 Debian
+atool 0.39.0-5 Debian
+audacity 2.1.2-2 Debian
+audacity-data 2.1.2-2 Debian
+autoconf 2.69-10 Debian
+automake 1:1.15-6 Debian
+autopoint 0.19.8.1-2+deb9u1 Debian
+autotools-dev 20161112.1 Debian
+avahi-daemon 0.6.32-2 Debian
+b43-fwcutter 1:019-3 Debian
+baobab 3.22.1-1 Debian
+base-files 9.9+deb9u11 Debian
+base-passwd 3.5.43 Debian
+bash 4.4-5 Debian
+bash-completion 1:2.1-4.3 Debian
+bc 1.06.95-9+b3 Debian
+biber 2.7-2 Debian
+bind9-host 1:9.10.3.dfsg.P4-12.3+deb9u5 Debian
+binfmt-support 2.1.6-2 Debian
+binutils 2.28-5 Debian
+blackbird-gtk-theme 0.4+20160704~ab4a30e-1 Debian
+blt 2.5.3+dfsg-3 Debian
+blueman 2.0.4-1 Debian
+bluetooth 5.43-2+deb9u1 Debian
+bluez 5.43-2+deb9u1 Debian
+bluez-cups 5.43-2+deb9u1 Debian
+bluez-firmware 1.2-3 Debian
+bluez-obexd 5.43-2+deb9u1 Debian
+bluez-tools 0.2.0~20140808-5+b2 Debian
+bootchart2 0.14.4-3.1 repo.antixlinux.com
+bootlogd 2.88dsf-59.9 Debian
+breeze-icon-theme 4:5.28.0-1 Debian
+broadcom-sta-dkms 6.30.223.271-9.1~mx17+1 MX repository
+bsd-mailx 8.1.2-0.20160123cvs-4 Debian
+bsdmainutils 9.0.12+nmu1 Debian
+bsdutils 1:2.29.2-1+deb9u1 Debian
+btrfs-progs 4.7.3-1 Debian
+btrfs-tools 4.7.3-1 Debian
+bubblewrap 0.3.0-1~mx17+1 MX repository
+build-essential 12.3 Debian
+busybox 1:1.22.0-19+b3 Debian
+bzip2 1.0.6-8.1 Debian
+ca-certificates 20161130+nmu1+deb9u1 Debian
+ca-certificates-java 20170929~deb9u3 Debian
+cabextract 1.6-1+b1 Debian
+calibre 3.48.0+dfsg-0.1~mx17+1 MX repository
+calibre-bin 3.48.0+dfsg-0.1~mx17+1 MX repository
+catfish 1.4.10-0.1~mx17+1 MX repository
+cdparanoia 3.10.2+debian-11 Debian
+cgmanager 0.41-2 Debian
+checkaptgpg 19.04.05mx17+1 MX repository
+chktex 1.7.6-1+b1 Debian
+chromium-bsu 0.9.16.1-1+b1 Debian
+chromium-bsu-data 0.9.16.1-1 Debian
+chroot-rescue 0.1.1 MX repository
+cifs-utils 2:6.7-1 Debian
+clementine 1.3.1+git276-g3485bbe43+dfsg-1 Debian
+cli-aptix 0.2.16 repo.antixlinux.com
+cli-common 0.9+nmu1 Debian
+cli-installer-antix 3.23 repo.antixlinux.com
+cli-shell-utils 0.3.16 repo.antixlinux.com
+clipit 1.4.2-1.2 Debian
+cm-super 0.3.4-9 Debian
+cm-super-minimal 0.3.4-9 Debian
+cmake 3.9.5-1~mx17+1 MX repository
+cmake-data 3.9.5-1~mx17+1 MX repository
+cmus 2.7.1+git20160225-1+b2 Debian
+colord 1.3.3-2 Debian
+colord-data 1.3.3-2 Debian
+compton 0.1~beta2+20150922-1 Debian
+compton-conf 0.2.1-2 Debian
+conky-all 1.10.6-1 Debian
+conky-manager 2.4+dfsg1-2mx17+1 MX repository
+conky-toggle-mx 18.12 MX repository
+console-data 2:1.12-5 Debian
+console-setup 1.164 Debian
+console-setup-linux 1.164 Debian
+consolekit 0.4.6-6 Debian
+context 2016.05.17.20160523-1 Debian
+coreutils 8.26-3 Debian
+cpio 2.11+dfsg-6 Debian
+cpp 4:6.3.0-4 Debian
+cpp-6 6.3.0-18+deb9u1 Debian
+cpufrequtils 008-1+b1 Debian
+cron 3.0pl1-128+deb9u1 Debian
+cryptsetup 2:1.7.3-4 Debian
+cryptsetup-bin 2:1.7.3-4 Debian
+cryptsetup-modified-functions 18.11.01 repo.antixlinux.com
+cups 2.2.1-8+deb9u4 Debian
+cups-browsed 1.11.6-3+deb9u1 Debian
+cups-bsd 2.2.1-8+deb9u4 Debian
+cups-client 2.2.1-8+deb9u4 Debian
+cups-common 2.2.1-8+deb9u4 Debian
+cups-core-drivers 2.2.1-8+deb9u4 Debian
+cups-daemon 2.2.1-8+deb9u4 Debian
+cups-filters 1.11.6-3+deb9u1 Debian
+cups-filters-core-drivers 1.11.6-3+deb9u1 Debian
+cups-ppdc 2.2.1-8+deb9u4 Debian
+cups-server-common 2.2.1-8+deb9u4 Debian
+curl 7.52.1-5+deb9u9 Debian
+dash 0.5.8-2.4 Debian
+dbus 1.10.28-0+deb9u1 Debian
+dbus-x11 1.10.28-0+deb9u1 Debian
+dc 1.06.95-9+b3 Debian
+dconf-cli 0.26.0-2+b1 Debian
+dconf-editor 3.22.3-1 Debian
+dconf-gsettings-backend 0.26.0-2+b1 Debian
+dconf-service 0.26.0-2+b1 Debian
+dconf-tools 0.26.0-2 Debian
+dctrl-tools 2.24-2+b1 Debian
+ddm-mx 19.04.05 MX repository
+deb-multimedia-keyring 2016.8.1 repo.antixlinux.com
+debconf 1.5.61 Debian
+debconf-i18n 1.5.61 Debian
+debconf-utils 1.5.61 Debian
+debhelper 12~mx17+1 MX repository
+debian-archive-keyring 2017.5+deb9u1 Debian
+debianutils 4.8.1.1 Debian
+deborphan 1.7.28.8-0.3+b1 Debian
+desktop-defaults-mx-applications 18.11.02 MX repository
+desktop-defaults-mx-common 19.05.01 MX repository
+desktop-defaults-xfce-mx17 19.05.01 MX repository
+desktop-file-utils 0.23-1 Debian
+detox 1.2.0-9 Debian
+dh-autoreconf 17~mx17+1 MX repository
+dh-python 2.20170125 Debian
+dh-strip-nondeterminism 0.034-1 Debian
+dialog 1.3-20160828-2 Debian
+dict 1.12.1+dfsg-4 Debian
+dictionaries-common 1.27.2 Debian
+diffstat 1.61-1+b1 Debian
+diffutils 1:3.5-3 Debian
+dirmngr 2.1.18-8~deb9u4 Debian
+discover 2.1.2-7.1+deb9u1 Debian
+discover-data 2.2013.01.11 Debian
+disk-manager 1.1.1-2 Debian
+distro-info-data 0.36 Debian
+djvulibre-bin 3.5.27.1-7 Debian
+dkms 2.3-2 Debian
+dmidecode 3.0-4 Debian
+dmsetup 2:1.02.137-2 Debian
+dmz-cursor-theme 0.4.4 Debian
+dns-root-data 2019031302~deb9u1 Debian
+dnsutils 1:9.10.3.dfsg.P4-12.3+deb9u5 Debian
+docbook-xml 4.5-8 Debian
+docbook-xsl 1.79.1+dfsg-2 Debian
+dosfstools 4.1-1 Debian
+dpkg 1.18.25 Debian
+dpkg-dev 1.18.25 Debian
+dvd+rw-tools 7.1-11.1 Debian
+dvidvi 1.0-8.2+b1 Debian
+dvipng 1.14-2+b3 Debian
+dwz 0.12-1+b1 Debian
+e2fslibs 1.43.4-2+deb9u1 Debian
+e2fsprogs 1.43.4-2+deb9u1 Debian
+ecryptfs-utils 111-4 Debian
+ed 1.10-2.1 Debian
+efibootmgr 14-2 Debian
+efivar 30-2 Debian
+eject 2.1.5+deb1+cvs20081104-13.2 Debian
+elinks 0.12~pre6-12 Debian
+elinks-data 0.12~pre6-12 Debian
+emacsen-common 2.0.8 Debian
+ethtool 1:4.8-1+b1 Debian
+exfat-fuse 1.2.5-2 Debian
+exfat-utils 1.2.5-2 Debian
+exim4-base 4.89-2+deb9u6 Debian
+exim4-config 4.89-2+deb9u6 Debian
+exim4-daemon-light 4.89-2+deb9u6 Debian
+exo-utils 0.10.7-1 Debian
+extlinux 3:6.03+dfsg-14.1+deb9u1 Debian
+extundelete 0.2.4-1+b2 Debian
+faad 2.8.0~cvs20161113-1+deb9u2 Debian
+faenza-cupertino-icons 0.1.0 repo.antixlinux.com
+faenza-icons 0.1.0 repo.antixlinux.com
+fakeroot 1.21-3.1 Debian
+fbcat 0.3-1+b1 Debian
+fbreader 0.12.10dfsg2-2+b1 Debian
+fbxkb 0.6-2.5 repo.antixlinux.com
+featherpad 1:0.9.2-0.1~mx17+1 MX repository
+feh 2.18-2 Debian
+feynmf 1.08-10 Debian
+ffmpeg 7:3.3.4-1mx17+2 MX repository
+file 1:5.30-1+deb9u2 Debian
+file-roller 3.22.3-1+deb9u1 Debian
+findutils 4.6.0+git+20161106-2 Debian
+firmware-amd-graphics 20190717-1~mx17+1 MX repository
+firmware-atheros 20190717-1~mx17+1 MX repository
+firmware-b43-installer 1:019-3 Debian
+firmware-b43legacy-installer 1:019-3 Debian
+firmware-bnx2 20190717-1~mx17+1 MX repository
+firmware-bnx2x 20190717-1~mx17+1 MX repository
+firmware-brcm80211 20190717-1~mx17+1 MX repository
+firmware-intel-sound 20190717-1~mx17+1 MX repository
+firmware-intelwimax 20190717-1~mx17+1 MX repository
+firmware-ipw2x00 20190717-1~mx17+1 MX repository
+firmware-iwlwifi 20190717-1~mx17+1 MX repository
+firmware-libertas 20190717-1~mx17+1 MX repository
+firmware-linux-free 3.4 Debian
+firmware-linux-nonfree 20190717-1~mx17+1 MX repository
+firmware-misc-nonfree 20190717-1~mx17+1 MX repository
+firmware-myricom 20190717-1~mx17+1 MX repository
+firmware-netxen 20190717-1~mx17+1 MX repository
+firmware-qlogic 20190717-1~mx17+1 MX repository
+firmware-realtek 20190717-1~mx17+1 MX repository
+firmware-zd1211 1:1.5-4 Debian
+flac 1.3.2-1 Debian
+flake 0.11-2 Debian
+flatpak 1.0.1-1~mx17+1 MX repository
+font-manager 0.7.3-1+b1 Debian
+fontconfig 1:2.13.0-5~mx17+1 MX repository
+fontconfig-config 1:2.13.0-5~mx17+1 MX repository
+fonts-arphic-bkai00mp 2.10-15 Debian
+fonts-arphic-bsmi00lp 2.10-17 Debian
+fonts-arphic-gbsn00lp 2.11-15 Debian
+fonts-arphic-gkai00mp 2.11-15 Debian
+fonts-baekmuk 2.2-11 Debian
+fonts-cabin 1.5-2 Debian
+fonts-comfortaa 2.003-1 Debian
+fonts-croscore 20161116-1 Debian
+fonts-crosextra-caladea 20130214-1 Debian
+fonts-crosextra-carlito 20130920-1 Debian
+fonts-dejavu 2.37-1 Debian
+fonts-dejavu-core 2.37-1 Debian
+fonts-dejavu-extra 2.37-1 Debian
+fonts-droid-fallback 1:6.0.1r16-1.1 Debian
+fonts-ebgaramond 0.016-1 Debian
+fonts-ebgaramond-extra 0.016-1 Debian
+fonts-font-awesome 4.7.0~dfsg-1 Debian
+fonts-freefont-otf 20120503-6 Debian
+fonts-freefont-ttf 20120503-6 Debian
+fonts-gfs-artemisia 1.1-5 Debian
+fonts-gfs-baskerville 1.1-5 Debian
+fonts-gfs-complutum 1.1-6 Debian
+fonts-gfs-didot 1.1-6 Debian
+fonts-gfs-neohellenic 1.1-6 Debian
+fonts-gfs-olga 1.1-5 Debian
+fonts-gfs-porson 1.1-6 Debian
+fonts-gfs-solomos 1.1-5 Debian
+fonts-hosny-amiri 0.107-1 Debian
+fonts-ipaexfont-gothic 00301-3 Debian
+fonts-ipaexfont-mincho 00301-3 Debian
+fonts-ipafont-gothic 00303-16 Debian
+fonts-ipafont-mincho 00303-16 Debian
+fonts-junicode 0.7.8-2 Debian
+fonts-lato 2.0-1 Debian
+fonts-liberation 1:1.07.4-2 Debian
+fonts-linuxlibertine 5.3.0-2 Debian
+fonts-lmodern 2.004.5-3 Debian
+fonts-lobster 2.0-2 Debian
+fonts-lobstertwo 2.0-2 Debian
+fonts-lyx 2.2.2-1 Debian
+fonts-mathjax 2.7.0-2 Debian
+fonts-noto 20161116-1 Debian
+fonts-noto-hinted 20161116-1 Debian
+fonts-noto-mono 20161116-1 Debian
+fonts-oflb-asana-math 000.907-6 Debian
+fonts-opensymbol 2:102.10+LibO6.0.1-1~bpo9+1 MX repository
+fonts-roboto-hinted 2:0~20160106-2 Debian
+fonts-sil-gentium 20081126:1.03-1 Debian
+fonts-sil-gentium-basic 1.1-7 Debian
+fonts-sil-gentiumplus 5.000-1 Debian
+fonts-sil-gentiumplus-compact 5.000-2 Debian
+fonts-sil-padauk 2.80-2 Debian
+fonts-stix 1.1.1-4 Debian
+fonts-unfonts-core 1.0.2-080608-13 Debian
+fonts-unfonts-extra 1.0.2-080608+dfsg-6 Debian
+fonts-uralic 0.0.20040829-5 Debian
+fonts-vlgothic 20141206-3 Debian
+fonts-wqy-microhei 0.2.0-beta-2 Debian
+foomatic-db-compressed-ppds 20161201-1 Debian
+fragmaster 1.7-5 Debian
+freeglut3 2.8.1-3 Debian
+frei0r-plugins 1.5.0-1 Debian
+fskbsetting 0.5.3.5 repo.antixlinux.com
+ftp 0.17-34 Debian
+fuse 2.9.7-1+deb9u2 Debian
+fuseiso 20070708-3.2+b1 Debian
+fuseiso9660 0.3-1.1+b1 Debian
+g++ 4:6.3.0-4 Debian
+g++-6 6.3.0-18+deb9u1 Debian
+galculator 2.1.4-1+b1 Debian
+galternatives 0.13.5+nmu4+deb9u1 Debian
+gawk 1:4.1.4+dfsg-1 Debian
+gazelle-installer-data-mx 19.05.01 MX repository
+gcc 4:6.3.0-4 Debian
+gcc-6 6.3.0-18+deb9u1 Debian
+gcc-6-base 6.3.0-18+deb9u1 Debian
+gcc-6-base:i386 6.3.0-18+deb9u1 Debian
+gconf-service 3.2.6-4+b1 Debian
+gconf2 3.2.6-4+b1 Debian
+gconf2-common 3.2.6-4 Debian
+gcr 3.20.0-5.1 Debian
+gddrescue 1.21-1 Debian
+gdebi 0.9.5.7+nmu1 Debian
+gdebi-core 0.9.5.7+nmu1 Debian
+gdisk 1.0.1-1 Debian
+geany 1.33-1~mx17 MX repository
+geany-common 1.33-1~mx17 MX repository
+genisoimage 9:1.1.11-3+b2 Debian
+geoclue-2.0 2.4.5-1 Debian
+geoip-database 20170512-1 Debian
+gettext 0.19.8.1-2+deb9u1 Debian
+gettext-base 0.19.8.1-2+deb9u1 Debian
+ghostscript 9.26a~dfsg-0+deb9u5 Debian
+ghostscript-x 9.26a~dfsg-0+deb9u5 Debian
+giblib1 1.2.4-11 Debian
+gimp 2.10.8-0.1~mx17+1 MX repository
+gimp-data 2.10.8-0.1~mx17+1 MX repository
+gir1.2-appindicator3-0.1 0.4.92-4 Debian
+gir1.2-atk-1.0 2.22.0-1 Debian
+gir1.2-atspi-2.0 2.22.0-6+deb9u1 Debian
+gir1.2-freedesktop 1.50.0-1+b1 Debian
+gir1.2-gconf-2.0 3.2.6-4+b1 Debian
+gir1.2-gdkpixbuf-2.0 2.36.5-2+deb9u2 Debian
+gir1.2-glib-2.0 1.50.0-1+b1 Debian
+gir1.2-gst-plugins-base-1.0 1.10.4-1+deb9u1 Debian
+gir1.2-gstreamer-1.0 1.10.4-1 Debian
+gir1.2-gtk-3.0 3.22.11-1 Debian
+gir1.2-javascriptcoregtk-4.0 2.24.3-1~mx17+1 MX repository
+gir1.2-keybinder-3.0 0.3.1-1 Debian
+gir1.2-notify-0.7 0.7.7-2 Debian
+gir1.2-packagekitglib-1.0 1.1.5-2+deb9u1 Debian
+gir1.2-pango-1.0 1.40.5-1 Debian
+gir1.2-polkit-1.0 0.105-18+deb9u1 Debian
+gir1.2-poppler-0.18 0.48.0-2+deb9u2 Debian
+gir1.2-rsvg-2.0 2.40.16-1+b1 Debian
+gir1.2-soup-2.4 2.56.0-2+deb9u2 Debian
+gir1.2-vte-2.91 0.46.1-1 Debian
+gir1.2-webkit2-4.0 2.24.3-1~mx17+1 MX repository
+git 1:2.11.0-3+deb9u4 Debian
+git-man 1:2.11.0-3+deb9u4 Debian
+gksu 2.1.0 repo.antixlinux.com
+glib-networking 2.50.0-1+b1 Debian
+glib-networking-common 2.50.0-1 Debian
+glib-networking-services 2.50.0-1+b1 Debian
+gmtp 1.3.11-1mx17+1 MX repository
+gnome-accessibility-themes 3.22.2-2 Debian
+gnome-cards-data 1:3.22.1-1 Debian
+gnome-disk-utility 3.22.1-1 Debian
+gnome-hearts 0.3-2.2+b1 Debian
+gnome-icon-theme 3.12.0-2 Debian
+gnome-keyring 3.20.0-3 Debian
+gnome-mahjongg 1:3.22.0-1 Debian
+gnome-mime-data 2.18.0-1 Debian
+gnome-ppp 0.3.23-2.1 repo.antixlinux.com
+gnome-schedule 2.3.0-mx17+1 MX repository
+gnome-terminal 3.22.2-1 Debian
+gnome-terminal-data 3.22.2-1 Debian
+gnome-themes-standard 3.22.2-2 Debian
+gnome-themes-standard-data 3.22.2-2 Debian
+gnupg 2.1.18-8~deb9u4 Debian
+gnupg-agent 2.1.18-8~deb9u4 Debian
+gnupg2 2.1.18-8~deb9u4 Debian
+gocr 0.49-2+b1 Debian
+gparted 0.25.0-1+b1 Debian
+gpgv 2.1.18-8~deb9u4 Debian
+grep 2.27-2 Debian
+groff-base 1.22.3-9 Debian
+growisofs 7.1-11.1 Debian
+grub-common 2.02~beta3-5+deb9u2 Debian
+grub-efi-amd64-bin 2.02~beta3-5+deb9u2 Debian
+grub-efi-ia32-bin 2.02~beta3-5+deb9u2 Debian
+grub-pc 2.02~beta3-5+deb9u2 Debian
+grub-pc-bin 2.02~beta3-5+deb9u2 Debian
+grub-themes-mx 19.08.03 MX repository
+grub2-common 2.02~beta3-5+deb9u2 Debian
+gscan2pdf 1.6.0-5 Debian
+gsettings-desktop-schemas 3.22.0-1 Debian
+gsfonts 1:8.11+urwcyr1.0.7~pre44-4.3 Debian
+gsmartcontrol 0.8.7-1.2 Debian
+gstreamer1.0-alsa 1.10.4-1+deb9u1 Debian
+gstreamer1.0-libav 1.10.4-1 Debian
+gstreamer1.0-plugins-bad 1.10.4-1 Debian
+gstreamer1.0-plugins-base 1.10.4-1+deb9u1 Debian
+gstreamer1.0-plugins-good 1.10.4-1 Debian
+gstreamer1.0-plugins-ugly 1.10.4-1 Debian
+gstreamer1.0-pulseaudio 1.10.4-1 Debian
+gtk-theme-switch 2.1.0-5+b1 Debian
+gtk-update-icon-cache 3.22.11-1 Debian
+gtk2-engines-murrine 0.98.1.1-6 Debian
+gtk2-engines-pixbuf 2.24.31-2 Debian
+gtkdialog 2:0.8.3-3mx17+1 MX repository
+gtkhash 0.7.0-4 Debian
+gtkhash-common 0.7.0-4 Debian
+gufw 17.04.1-1.1 Debian
+guile-2.0-libs 2.0.13+1-4 Debian
+guvcview 2.0.4+debian-1+b1 Debian
+gvfs 1.30.4-1 Debian
+gvfs-backends 1.30.4-1 Debian
+gvfs-bin 1.30.4-1 Debian
+gvfs-common 1.30.4-1 Debian
+gvfs-daemons 1.30.4-1 Debian
+gvfs-fuse 1.30.4-1 Debian
+gvfs-libs 1.30.4-1 Debian
+gzip 1.6-5+b1 Debian
+hardinfo 0.5.1-1.5+b3 Debian
+haveged 1.9.1-5+deb9u1 Debian
+hddtemp 0.3-beta15-52+b1 Debian
+hdparm 9.51+ds-1+deb9u1 Debian
+hexchat 2.12.4-3 Debian
+hexchat-common 2.12.4-3 Debian
+hexedit 1.3-1 Debian
+hibernate 2.0+15+g88d54a8-1 Debian
+hicolor-icon-theme 0.15-1 Debian
+host 1:9.10.3.dfsg.P4-12.3+deb9u5 Debian
+hostname 3.18+b1 Debian
+hplip 3.18.12+dfsg0-2~mx17+1 MX repository
+hplip-data 3.18.12+dfsg0-2~mx17+1 MX repository
+htop 2.0.2-1 Debian
+hunspell-en-gb 1:5.2.5-1 Debian
+hunspell-en-us 20070829-7 Debian
+hwinfo 21.38-1 Debian
+hyphen-en-gb 1:5.2.5-1 Debian
+hyphen-en-us 2.8.8-5 Debian
+i3 4.13-1+deb9u1 Debian
+i3-wm 4.13-1+deb9u1 Debian
+i3blocks 1.4-3+b1 Debian
+i3lock 2.8-1 Debian
+i3status 2.11-1 Debian
+i965-va-driver 2.2.0+dfsg1-2~mx17+1 MX repository
+icedax 9:1.1.11-3+b2 Debian
+icu-devtools 57.1-6+deb9u3 Debian
+ideviceinstaller 1.0.1-0.3+b2 Debian
+ifupdown 0.8.19+2 repo.antixlinux.com
+ifuse 1.1.3-git20171008+1 MX repository
+imagemagick 8:6.9.7.4+dfsg-11+deb9u7 Debian
+imagemagick-6-common 8:6.9.7.4+dfsg-11+deb9u7 Debian
+imagemagick-6.q16 8:6.9.7.4+dfsg-11+deb9u7 Debian
+info 6.3.0.dfsg.1-1+b2 Debian
+init 1.48 Debian
+init-system-helpers 1.48 Debian
+initramfs-tools 0.130 Debian
+initramfs-tools-core 0.130 Debian
+initscripts 2.88dsf-59.9 Debian
+inkscape 0.92.4-1~mx17+1 MX repository
+insserv 1.14.0-5.4+b1 Debian
+install-info 6.3.0.dfsg.1-1+b2 Debian
+installation-report 2.62 Debian
+intel-microcode 3.20190618.1~deb9u1 Debian
+intltool 0.51.0-3 Debian
+intltool-debian 0.35.0+20060710.4 Debian
+iproute2 4.9.0-1+deb9u1 Debian
+iptables 1.6.0+snapshot20161117-6 Debian
+iptraf 1:1.1.4-6 Debian
+iptraf-ng 1:1.1.4-6 Debian
+iputils-ping 3:20161105-1 Debian
+irssi 1.0.7-1~deb9u1 Debian
+irssi-plugin-otr 1.0.2-1+b1 Debian
+irssi-scripts 20160301 Debian
+isc-dhcp-client 4.3.5-3.2 repo.antixlinux.com
+isc-dhcp-common 4.3.5-3.2 repo.antixlinux.com
+iso-codes 3.75-1 Debian
+isomount 0.1.0 MX repository
+iucode-tool 2.1.1-1 Debian
+java-common 0.58+deb9u1 Debian
+jfsutils 1.1.15-3 Debian
+kate-data 4:4.14.3-4 Debian
+katepart 4:4.14.3-4 Debian
+kbd 2.0.3-2+b1 Debian
+kde-runtime 4:16.08.3-2 Debian
+kde-runtime-data 4:16.08.3-2 Debian
+kded5 5.28.0-1 Debian
+kdelibs-bin 4:4.14.26-2 Debian
+kdelibs5-data 4:4.14.26-2 Debian
+kdelibs5-plugins 4:4.14.26-2 Debian
+kdenlive 16.12.2-1 Debian
+kdenlive-data 16.12.2-1 Debian
+kdoctools 4:4.14.26-2 Debian
+keepassxc 2.4.1+dfsg.1-0.1~mx17+1 MX repository
+keyboard-configuration 1.164 Debian
+keyutils 1.5.9-9 Debian
+kinit 5.28.0-1 Debian
+kio 5.28.0-2 Debian
+klibc-utils 2.0.4-9 Debian
+kmod 23-2 Debian
+kodi 2:17.3+dfsg1-1mx17+1 MX repository
+kodi-bin 2:17.3+dfsg1-1mx17+1 MX repository
+kodi-data 2:17.3+dfsg1-1mx17+1 MX repository
+krb5-locales 1.15-1+deb9u1 Debian
+lacheck 1.26-17 Debian
+lame 3.99.5+repack1-9+b2 Debian
+laptop-detect 0.13.8 Debian
+latex-cjk-all 4.8.4+git20150701-2 Debian
+latex-cjk-chinese 4.8.4+git20150701-2 Debian
+latex-cjk-chinese-arphic-bkai00mp 1.23 Debian
+latex-cjk-chinese-arphic-bsmi00lp 1.23 Debian
+latex-cjk-chinese-arphic-gbsn00lp 1.23 Debian
+latex-cjk-chinese-arphic-gkai00mp 1.23 Debian
+latex-cjk-common 4.8.4+git20150701-2 Debian
+latex-cjk-japanese 4.8.4+git20150701-2 Debian
+latex-cjk-japanese-wadalab 0.20050817-17 Debian
+latex-cjk-korean 4.8.4+git20150701-2 Debian
+latex-cjk-thai 4.8.4+git20150701-2 Debian
+latexdiff 1.1.1-2 Debian
+latexmk 1:4.41-1 Debian
+lbreakout2 2.6.5-1+b2 Debian
+lbreakout2-data 2.6.5-1 Debian
+lcdf-typetools 2.106~dfsg-1 Debian
+leafpad 0.8.18.1-5 Debian
+less 481-2.1 Debian
+liba52-0.7.4 0.7.4-19 Debian
+libaa1 1.4p5-44+b1 Debian
+libabw-0.1-1 0.1.1-4 Debian
+libaccountsservice0 0.6.43-1 Debian
+libacl1 2.2.52-3+b1 Debian
+libacl1-dev 2.2.52-3+b1 Debian
+libalgorithm-c3-perl 0.10-1 Debian
+libalut0 1.1.0-5+b2 Debian
+libamd2 1:4.5.4-1 Debian
+libao-common 1.2.2-1 Debian
+libao4 1.2.2-1 Debian
+libaom0 1.0.0-3~mx17+1 MX repository
+libapparmor1 2.11.0-3+deb9u2 Debian
+libappindicator1 0.4.92-4 Debian
+libappindicator3-1 0.4.92-4 Debian
+libappstream-glib8 0.6.8-1 Debian
+libapt-inst2.0 1.4.9 Debian
+libapt-pkg5.0 1.4.9 Debian
+libarchive-zip-perl 1.59-1+deb9u1 Debian
+libarchive13 3.2.2-2+deb9u1 Debian
+libargon2-0 0~20160821-1+b1 Debian
+libaribb24-0 1.0.3-1~mx17+1 MX repository
+libart-2.0-2 2.3.21-2 Debian
+libasan3 6.3.0-18+deb9u1 Debian
+libasound2 1.1.3-5 Debian
+libasound2-data 1.1.3-5 Debian
+libasound2-dev 1.1.3-5 Debian
+libasound2-plugins 1.1.1-1 Debian
+libaspell15 0.60.7~20110707-3+b2 Debian
+libass5 1:0.13.4-2 Debian
+libassuan0 2.4.3-2 Debian
+libasyncns0 0.8-6 Debian
+libatasmart4 0.19-4+b1 Debian
+libatk-bridge2.0-0 2.22.0-2 Debian
+libatk-bridge2.0-dev 2.22.0-2 Debian
+libatk-wrapper-java 0.33.3-13+deb9u1 Debian
+libatk-wrapper-java-jni 0.33.3-13+deb9u1 Debian
+libatk1.0-0 2.22.0-1 Debian
+libatk1.0-data 2.22.0-1 Debian
+libatk1.0-dev 2.22.0-1 Debian
+libatkmm-1.6-1v5 2.24.2-2 Debian
+libatomic1 6.3.0-18+deb9u1 Debian
+libatspi2.0-0 2.22.0-6+deb9u1 Debian
+libatspi2.0-dev 2.22.0-6+deb9u1 Debian
+libattica0.4 0.4.2-2 Debian
+libattr1 1:2.4.47-2+b2 Debian
+libattr1-dev 1:2.4.47-2+b2 Debian
+libaudclient2 3.5~rc2-1 Debian
+libaudio-flac-header-perl 2.4-2+b3 Debian
+libaudio-scan-perl 0.96-1 Debian
+libaudio2 1.9.4-5+b1 Debian
+libaudiofile1 0.3.6-4+deb9u1 Debian
+libaudit-common 1:2.6.7-2 Debian
+libaudit1 1:2.6.7-2 Debian
+libautovivification-perl 0.16-1+b2 Debian
+libavahi-client3 0.6.32-2 Debian
+libavahi-common-data 0.6.32-2 Debian
+libavahi-common3 0.6.32-2 Debian
+libavahi-core7 0.6.32-2 Debian
+libavahi-glib1 0.6.32-2 Debian
+libavc1394-0 0.5.4-4+b1 Debian
+libavcodec57 7:3.3.4-1mx17+2 MX repository
+libavdevice57 7:3.3.4-1mx17+2 MX repository
+libavfilter6 7:3.3.4-1mx17+2 MX repository
+libavformat57 7:3.3.4-1mx17+2 MX repository
+libavresample3 7:3.3.4-1mx17+2 MX repository
+libavutil55 7:3.3.4-1mx17+2 MX repository
+libb-hooks-endofscope-perl 0.21-1 Debian
+libbabl-0.1-0 0.1.58-1~mx17+1 MX repository
+libbasicusageenvironment1 2016.11.28-1+deb9u2 Debian
+libbfb0 0.24-5+b1 Debian
+libbind9-140 1:9.10.3.dfsg.P4-12.3+deb9u5 Debian
+libbit-vector-perl 7.4-1+b2 Debian
+libblas-common 3.7.0-2 Debian
+libblas3 3.7.0-2 Debian
+libblkid1 2.29.2-1+deb9u1 Debian
+libbluetooth3 5.43-2+deb9u1 Debian
+libbluray1 1:0.9.3-3 Debian
+libbluray2 1:1.0.2-3~mx17+1 MX repository
+libbonobo2-0 2.32.1-3+b1 Debian
+libbonobo2-common 2.32.1-3 Debian
+libbonoboui2-0 2.24.5-4 Debian
+libbonoboui2-common 2.24.5-4 Debian
+libboost-chrono1.62.0 1.62.0+dfsg-4 Debian
+libboost-date-time1.62.0 1.62.0+dfsg-4 Debian
+libboost-filesystem1.62.0 1.62.0+dfsg-4 Debian
+libboost-iostreams1.62.0 1.62.0+dfsg-4 Debian
+libboost-locale1.62.0 1.62.0+dfsg-4 Debian
+libboost-random1.62.0 1.62.0+dfsg-4 Debian
+libboost-system1.62.0 1.62.0+dfsg-4 Debian
+libboost-thread1.62.0 1.62.0+dfsg-4 Debian
+libbs2b0 3.1.0+dfsg-2.2 Debian
+libbsd0 0.8.3-1 Debian
+libbtparse1 0.78-1 Debian
+libburn4 1.4.6-1 Debian
+libbusiness-isbn-data-perl 20140910.003-1 Debian
+libbusiness-isbn-perl 3.003-1 Debian
+libbusiness-ismn-perl 1.131-1 Debian
+libbusiness-issn-perl 1.002-1 Debian
+libbz2-1.0 1.0.6-8.1 Debian
+libbz2-dev 1.0.6-8.1 Debian
+libc-bin 2.24-11+deb9u4 Debian
+libc-dev-bin 2.24-11+deb9u4 Debian
+libc-l10n 2.24-11+deb9u4 Debian
+libc6 2.24-11+deb9u4 Debian
+libc6-dev 2.24-11+deb9u4 Debian
+libc6:i386 2.24-11+deb9u4 Debian
+libcaca0 0.99.beta19-2.1~deb9u1 Debian
+libcairo-gobject2 1.14.8-1 Debian
+libcairo-perl 1.106-1+b2 Debian
+libcairo-script-interpreter2 1.14.8-1 Debian
+libcairo2 1.14.8-1 Debian
+libcairo2-dev 1.14.8-1 Debian
+libcairomm-1.0-1v5 1.12.0-1+b1 Debian
+libcamd2 1:4.5.4-1 Debian
+libcanberra-gstreamer 0.30-3 Debian
+libcanberra-gtk-module 0.30-3 Debian
+libcanberra-gtk0 0.30-3 Debian
+libcanberra-gtk3-0 0.30-3 Debian
+libcanberra-gtk3-module 0.30-3 Debian
+libcanberra-pulse 0.30-3 Debian
+libcanberra0 0.30-3 Debian
+libcap-ng0 0.7.7-3+b1 Debian
+libcap2 1:2.25-1 Debian
+libcap2-bin 1:2.25-1 Debian
+libcarp-clan-perl 6.06-1 Debian
+libcc1-0 6.3.0-18+deb9u1 Debian
+libccolamd2 1:4.5.4-1 Debian
+libcddb-get-perl 2.28-2 Debian
+libcddb-perl 1.222-1 Debian
+libcddb2 1.3.2-5 Debian
+libcdio-cdda1 0.83-4.3+b1 Debian
+libcdio-paranoia1 0.83-4.3+b1 Debian
+libcdio13 0.83-4.3+b1 Debian
+libcdparanoia0 3.10.2+debian-11 Debian
+libcdr-0.1-1 0.1.3-3+b1 Debian
+libcdt5 2.38.0-17 Debian
+libcgmanager0 0.41-2 Debian
+libcgraph6 2.38.0-17 Debian
+libchm1 2:0.40a-3+b2 Debian
+libcholmod3 1:4.5.4-1 Debian
+libchromaprint1 1.4.2-1 Debian
+libcilkrts5 6.3.0-18+deb9u1 Debian
+libck-connector0 0.4.6-6 Debian
+libclass-accessor-perl 0.34-1 Debian
+libclass-c3-perl 0.32-1 Debian
+libclass-data-inheritable-perl 0.08-2 Debian
+libclass-factory-util-perl 1.7-3 Debian
+libclass-method-modifiers-perl 2.12-1 Debian
+libclass-singleton-perl 1.5-1 Debian
+libclucene-contribs1v5 2.3.3.4+dfsg-1 Debian
+libclucene-core1v5 2.3.3.4+dfsg-1 Debian
+libclutter-1.0-0 1.26.0+dfsg-3 Debian
+libclutter-gtk-1.0-0 1.8.2-2 Debian
+libcmis-0.5-5v5 0.5.1+git20160603-3+b1 Debian
+libcogl-pango20 1.22.2-2 Debian
+libcogl-path20 1.22.2-2 Debian
+libcogl20 1.22.2-2 Debian
+libcolamd2 1:4.5.4-1 Debian
+libcolord2 1.3.3-2 Debian
+libcolorhug2 1.3.3-2 Debian
+libcomerr2 1.43.4-2+deb9u1 Debian
+libconfig-general-perl 2.63-1 Debian
+libconfig9 1.5-0.3 Debian
+libconfuse-common 3.0+dfsg-2+deb9u1 Debian
+libconfuse1 3.0+dfsg-2+deb9u1 Debian
+libcpufreq0 008-1+b1 Debian
+libcrack2 2.9.2-5 Debian
+libcroco3 0.6.11-3 Debian
+libcrossguid0 0.0+git200150803-2 Debian
+libcrypto++6 5.6.4-7 Debian
+libcryptsetup4 2:1.7.3-4 Debian
+libcrystalhd3 1:0.0~git20110715.fdd2f19-12 Debian
+libcue1 1.4.0-1 Debian
+libcups2 2.2.1-8+deb9u4 Debian
+libcupscgi1 2.2.1-8+deb9u4 Debian
+libcupsfilters1 1.11.6-3+deb9u1 Debian
+libcupsimage2 2.2.1-8+deb9u4 Debian
+libcupsmime1 2.2.1-8+deb9u4 Debian
+libcupsppdc1 2.2.1-8+deb9u4 Debian
+libcurl3 7.52.1-5+deb9u9 Debian
+libcurl3-gnutls 7.52.1-5+deb9u9 Debian
+libcurses-perl 1.36-1+b1 Debian
+libcurses-ui-perl 0.9609-1 Debian
+libcwidget3v5 0.5.17-4+b1 Debian
+libdaemon0 0.14-6 Debian
+libdata-compare-perl 1.25-0.1 Debian
+libdata-dump-perl 1.23-1 Debian
+libdata-optlist-perl 0.110-1 Debian
+libdata-uniqid-perl 0.12-1 Debian
+libdate-calc-perl 6.4-1 Debian
+libdate-simple-perl 3.0300-1+b3 Debian
+libdatetime-calendar-julian-perl 0.04-1 Debian
+libdatetime-format-builder-perl 0.8100-1 Debian
+libdatetime-format-strptime-perl 1.7200-1 Debian
+libdatetime-locale-perl 1:1.11-1 Debian
+libdatetime-perl 2:1.42-1 Debian
+libdatetime-timezone-perl 1:2.09-1+2019c Debian
+libdatrie-dev 0.2.10-4+b1 Debian
+libdatrie1 0.2.10-4+b1 Debian
+libdb5.3 5.3.28-12+deb9u1 Debian
+libdbus-1-3 1.10.28-0+deb9u1 Debian
+libdbus-1-dev 1.10.28-0+deb9u1 Debian
+libdbus-glib-1-2 0.108-2 Debian
+libdbusmenu-glib4 12.10.2-2 Debian
+libdbusmenu-gtk3-4 12.10.2-2 Debian
+libdbusmenu-gtk4 12.10.2-2 Debian
+libdbusmenu-qt2 0.9.3+16.04.20160218-1 Debian
+libdbusmenu-qt5-2 0.9.3+16.04.20160218-1 Debian
+libdc1394-22 2.2.5-1 Debian
+libdca0 0.0.5-10 Debian
+libdconf1 0.26.0-2+b1 Debian
+libde265-0 1.0.2-2+b2 Debian
+libdebconfclient0 0.227 Debian
+libdevel-stacktrace-perl 2.0200-1 Debian
+libdevmapper1.02.1 2:1.02.137-2 Debian
+libdirectfb-1.2-9 1.2.10.0-8+deb9u1 Debian
+libdiscid0 0.6.1-6 Debian
+libdiscover2 2.1.2-7.1+deb9u1 Debian
+libdjvulibre-dev 3.5.27.1-7 Debian
+libdjvulibre-text 3.5.27.1-7 Debian
+libdjvulibre21 3.5.27.1-7 Debian
+libdlrestrictions1 0.15.24 Debian
+libdns-export162 1:9.10.3.dfsg.P4-12.3+deb9u5 Debian
+libdns162 1:9.10.3.dfsg.P4-12.3+deb9u5 Debian
+libdouble-conversion1 2.0.1-4 Debian
+libdpkg-perl 1.18.25 Debian
+libdrm-amdgpu1 2.4.95-1~mx17+1 MX repository
+libdrm-common 2.4.95-1~mx17+1 MX repository
+libdrm-dev 2.4.95-1~mx17+1 MX repository
+libdrm-intel1 2.4.95-1~mx17+1 MX repository
+libdrm-nouveau2 2.4.95-1~mx17+1 MX repository
+libdrm-radeon1 2.4.95-1~mx17+1 MX repository
+libdrm2 2.4.95-1~mx17+1 MX repository
+libdv4 1.0.0-11 Debian
+libdvbpsi10 1.3.0-5 Debian
+libdvdnav4 5.0.3-3 Debian
+libdvdread4 5.0.3-2 Debian
+libe-book-0.1-1 0.1.2-4 Debian
+libebml4v5 1.3.4-1+deb9u1 Debian
+libebur128-1 1.2.2-2 Debian
+libecryptfs1 111-4 Debian
+libedit2 3.1-20160903-3 Debian
+libefiboot1 30-2 Debian
+libefivar1 30-2 Debian
+libegl-mesa0 18.2.6-1~mx17+1 MX repository
+libegl1 1.1.0-1~mx17+1 MX repository
+libegl1-mesa 18.2.6-1~mx17+1 MX repository
+libegl1-mesa-dev 18.2.6-1~mx17+1 MX repository
+libelf-dev 0.168-1 Debian
+libelf1 0.168-1 Debian
+libenca0 1.19-1+b1 Debian
+libenchant1c2a 1.6.0-11+b1 Debian
+libencode-eucjpms-perl 0.07-3+b4 Debian
+libencode-hanextra-perl 0.23-4+b2 Debian
+libencode-jis2k-perl 0.03-1+b2 Debian
+libencode-locale-perl 1.05-1 Debian
+libeot0 0.01-4+b1 Debian
+libepoxy-dev 1.3.1-2 Debian
+libepoxy0 1.3.1-2 Debian
+libept1.5.0 1.1+nmu3+b1 Debian
+libepub0 0.2.2-4+b4 Debian
+liberror-perl 0.17024-1 Debian
+libestr0 0.1.10-2 Debian
+libetonyek-0.1-1 0.1.6-5 Debian
+libev4 1:4.22-1+b1 Debian
+libeval-closure-perl 0.14-1 Debian
+libevdev2 1.5.6+dfsg-1 Debian
+libevent-2.0-5 2.0.21-stable-3 Debian
+libexception-class-perl 1.42-1 Debian
+libexif-dev 0.6.21-2+b2 Debian
+libexif12 0.6.21-2+b2 Debian
+libexiv2-14 0.25-3.1+deb9u1 Debian
+libexo-1-0 0.10.7-1 Debian
+libexo-common 0.10.7-1 Debian
+libexo-helpers 0.10.7-1 Debian
+libexpat1 2.2.0-2+deb9u3 Debian
+libexpat1-dev 2.2.0-2+deb9u3 Debian
+libexporter-tiny-perl 0.042-1 Debian
+libexttextcat-2.0-0 3.4.4-2+b1 Debian
+libexttextcat-data 3.4.4-2 Debian
+libextutils-depends-perl 0.405-1 Debian
+libextutils-pkgconfig-perl 1.15-1 Debian
+libfaad2 2.8.0~cvs20161113-1+deb9u2 Debian
+libfakeroot 1.21-3.1 Debian
+libfam0 2.7.0-17.2+b1 Debian
+libfastjson4 0.99.4-1 Debian
+libfdisk1 2.29.2-1+deb9u1 Debian
+libffi-dev 3.2.1-6 Debian
+libffi6 3.2.1-6 Debian
+libffmpegthumbnailer4v5 2.1.1-0.1+b3 Debian
+libfftw3-double3 3.3.5-3 Debian
+libfftw3-single3 3.3.5-3 Debian
+libfile-copy-recursive-perl 0.38-1 Debian
+libfile-find-rule-perl 0.34-1 Debian
+libfile-listing-perl 6.04-1 Debian
+libfile-slurp-perl 9999.19-6 Debian
+libfile-slurp-tiny-perl 0.003-1 Debian
+libfile-slurp-unicode-perl 0.7.1-2 Debian
+libfile-stripnondeterminism-perl 0.034-1 Debian
+libfile-which-perl 1.21-1 Debian
+libfilesys-df-perl 0.92-6+b1 Debian
+libflac++6v5 1.3.2-1 Debian
+libflac8 1.3.2-1 Debian
+libflite1 2.0.0-release-3+b1 Debian
+libfluidsynth1 1.1.6-4 Debian
+libfm-data 1.2.5-1 Debian
+libfm-extra4 1.2.5-1 Debian
+libfm-gtk-data 1.2.5-1 Debian
+libfm-gtk4 1.2.5-1 Debian
+libfm4 1.2.5-1 Debian
+libfont-ttf-perl 1.06-1 Debian
+libfontconfig1 1:2.13.0-5~mx17+1 MX repository
+libfontconfig1-dev 1:2.13.0-5~mx17+1 MX repository
+libfontembed1 1.11.6-3+deb9u1 Debian
+libfontenc1 1:1.1.3-1+b2 Debian
+libfreetype6 2.8.1-2~mx17+1 MX repository
+libfreetype6-dev 2.8.1-2~mx17+1 MX repository
+libfribidi0 0.19.7-1+deb9u1 Debian
+libfs6 2:1.0.7-1+b2 Debian
+libfsplib0 0.11-2 Debian
+libftgl2 2.1.3~rc5-4+nmu1.1 Debian
+libfuse2 2.9.7-1+deb9u2 Debian
+libgail-common 2.24.31-2 Debian
+libgail18 2.24.31-2 Debian
+libgarcon-1-0 0.4.0-2 Debian
+libgarcon-common 0.4.0-2 Debian
+libgavl1 1.4.0-4 Debian
+libgbm1 18.2.6-1~mx17+1 MX repository
+libgc1c2 1:7.4.2-8 Debian
+libgcab-1.0-0 0.7-2+deb9u1 Debian
+libgcc-6-dev 6.3.0-18+deb9u1 Debian
+libgcc1 1:6.3.0-18+deb9u1 Debian
+libgcc1:i386 1:6.3.0-18+deb9u1 Debian
+libgck-1-0 3.20.0-5.1 Debian
+libgconf-2-4 3.2.6-4+b1 Debian
+libgconf2-dev 3.2.6-4+b1 Debian
+libgcr-3-common 3.20.0-5.1 Debian
+libgcr-base-3-1 3.20.0-5.1 Debian
+libgcr-ui-3-1 3.20.0-5.1 Debian
+libgcrypt20 1.7.6-2+deb9u3 Debian
+libgd3 2.2.4-2+deb9u5 Debian
+libgdata-common 0.17.6-2 Debian
+libgdata22 0.17.6-2 Debian
+libgdbm3 1.8.3-14 Debian
+libgdiplus 4.2-1+b1 Debian
+libgdk-pixbuf2.0-0 2.36.5-2+deb9u2 Debian
+libgdk-pixbuf2.0-common 2.36.5-2+deb9u2 Debian
+libgdk-pixbuf2.0-dev 2.36.5-2+deb9u2 Debian
+libgee-0.8-2 0.18.1-1 Debian
+libgegl-0.4-0 0.4.12-0.1~mx17+1 MX repository
+libgegl-common 0.4.12-0.1~mx17+1 MX repository
+libgeoclue-2-0 2.4.5-1 Debian
+libgeoip1 1.6.9-4 Debian
+libgexiv2-2 0.10.8-1~mx17+1 MX repository
+libgfortran3 6.3.0-18+deb9u1 Debian
+libgif-dev 5.1.4-0.4 Debian
+libgif7 5.1.4-0.4 Debian
+libgimp2.0 2.10.8-0.1~mx17+1 MX repository
+libgirara-gtk3-2 0.2.7-1 Debian
+libgirepository-1.0-1 1.50.0-1+b1 Debian
+libgksu2-0 2.1.0 repo.antixlinux.com
+libgl1 1.1.0-1~mx17+1 MX repository
+libgl1-mesa-dri 18.2.6-1~mx17+1 MX repository
+libgl1-mesa-glx 18.2.6-1~mx17+1 MX repository
+libglade2-0 1:2.6.4-2 Debian
+libglapi-mesa 18.2.6-1~mx17+1 MX repository
+libglc0 0.7.2-5+b3 Debian
+libgles1 1.1.0-1~mx17+1 MX repository
+libgles2 1.1.0-1~mx17+1 MX repository
+libglew2.0 2.0.0-3+b1 Debian
+libglewmx1.13 1.13.0-3 Debian
+libglib-perl 3:1.324-1 Debian
+libglib2.0-0 2.56.1-2~mx17+1 MX repository
+libglib2.0-bin 2.56.1-2~mx17+1 MX repository
+libglib2.0-cil 2.12.40-2 Debian
+libglib2.0-data 2.56.1-2~mx17+1 MX repository
+libglib2.0-dev 2.56.1-2~mx17+1 MX repository
+libglib2.0-dev-bin 2.56.1-2~mx17+1 MX repository
+libglibmm-2.4-1v5 2.50.0-1 Debian
+libglu1-mesa 9.0.0-2.1 Debian
+libglvnd-core-dev 1.1.0-1~mx17+1 MX repository
+libglvnd-dev 1.1.0-1~mx17+1 MX repository
+libglvnd0 1.1.0-1~mx17+1 MX repository
+libglx-mesa0 18.2.6-1~mx17+1 MX repository
+libglx0 1.1.0-1~mx17+1 MX repository
+libgme0 0.6.0-4 Debian
+libgmp-dev 2:6.1.2+dfsg-1 Debian
+libgmp10 2:6.1.2+dfsg-1 Debian
+libgmpxx4ldbl 2:6.1.2+dfsg-1 Debian
+libgnome-2-0 2.32.1-5+b1 Debian
+libgnome-keyring-common 3.12.0-1 Debian
+libgnome-keyring0 3.12.0-1+b2 Debian
+libgnome2-canvas-perl 1.002-4+b1 Debian
+libgnome2-common 2.32.1-5 Debian
+libgnome2-perl 1.046-3+b1 Debian
+libgnome2-vfs-perl 1.082-1+b3 Debian
+libgnomecanvas2-0 2.30.3-3 Debian
+libgnomecanvas2-common 2.30.3-3 Debian
+libgnomeui-0 2.24.5-3.1 Debian
+libgnomeui-common 2.24.5-3.1 Debian
+libgnomevfs2-0 1:2.24.4-6.1+b2 Debian
+libgnomevfs2-common 1:2.24.4-6.1 Debian
+libgnutls-dane0 3.5.8-5+deb9u4 Debian
+libgnutls-openssl27 3.5.8-5+deb9u4 Debian
+libgnutls28-dev 3.5.8-5+deb9u4 Debian
+libgnutls30 3.5.8-5+deb9u4 Debian
+libgnutlsxx28 3.5.8-5+deb9u4 Debian
+libgoa-1.0-0b 3.22.5-1 Debian
+libgoa-1.0-common 3.22.5-1 Debian
+libgomp1 6.3.0-18+deb9u1 Debian
+libgoo-canvas-perl 0.06-2+b3 Debian
+libgoocanvas-common 1.0.0-1 Debian
+libgoocanvas3 1.0.0-1 Debian
+libgpg-error0 1.26-2 Debian
+libgpgme++2v5 4:4.14.10-7+b2 Debian
+libgpgme11 1.8.0-3+b2 Debian
+libgpgmepp6 1.8.0-3+b2 Debian
+libgphoto2-6 2.5.12-1 Debian
+libgphoto2-port12 2.5.12-1 Debian
+libgpm-dev 1.20.4-6.2+b1 Debian
+libgpm2 1.20.4-6.2+b1 Debian
+libgpod4 0.8.3-8.2+deb9u1 Debian
+libgraphite2-3 1.3.10-1 Debian
+libgraphite2-dev 1.3.10-1 Debian
+libgraphviz-dev 2.38.0-17 Debian
+libgroupsock8 2016.11.28-1+deb9u2 Debian
+libgs9 9.26a~dfsg-0+deb9u5 Debian
+libgs9-common 9.26a~dfsg-0+deb9u5 Debian
+libgsf-1-114 1.14.41-1 Debian
+libgsf-1-common 1.14.41-1 Debian
+libgsl2 2.3+dfsg-1 Debian
+libgsm1 1.0.13-4+b2 Debian
+libgssapi-krb5-2 1.15-1+deb9u1 Debian
+libgstreamer-plugins-bad1.0-0 1.10.4-1 Debian
+libgstreamer-plugins-base1.0-0 1.10.4-1+deb9u1 Debian
+libgstreamer1.0-0 1.10.4-1 Debian
+libgtk-3-0 3.22.11-1 Debian
+libgtk-3-common 3.22.11-1 Debian
+libgtk-3-dev 3.22.11-1 Debian
+libgtk2-ex-simple-list-perl 0.50-2 Debian
+libgtk2-imageview-perl 0.05-2+b3 Debian
+libgtk2-perl 2:1.2499-1 Debian
+libgtk2.0-0 2.24.31-2 Debian
+libgtk2.0-cil 2.12.40-2 Debian
+libgtk2.0-common 2.24.31-2 Debian
+libgtkimageview0 1.6.4+dfsg-1.1 Debian
+libgtkmm-2.4-1v5 1:2.24.5-1 Debian
+libgtkmm-3.0-1v5 3.22.0-1 Debian
+libgtkspell0 2.0.16-1.1 Debian
+libgtop-2.0-10 2.34.2-1 Debian
+libgtop2-common 2.34.2-1 Debian
+libgts-0.7-5 0.7.6+darcs121130-4 Debian
+libgucharmap-2-90-7 1:9.0.2-1 Debian
+libgudev-1.0-0 230-3 Debian
+libgusb2 0.2.9-1+b1 Debian
+libgutenprint2 5.2.11-1+b2 Debian
+libguvcview-2.0-2 2.0.4+debian-1+b1 Debian
+libgvc6 2.38.0-17 Debian
+libgvc6-plugins-gtk 2.38.0-17 Debian
+libgvpr2 2.38.0-17 Debian
+libharfbuzz-dev 1.4.2-1 Debian
+libharfbuzz-gobject0 1.4.2-1 Debian
+libharfbuzz-icu0 1.4.2-1 Debian
+libharfbuzz0b 1.4.2-1 Debian
+libhavege1 1.9.1-5+deb9u1 Debian
+libhd21 21.38-1 Debian
+libheif1 1.3.2-1~mx17+1 MX repository
+libhogweed4 3.3-1+b2 Debian
+libhpmud0 3.18.12+dfsg0-2~mx17+1 MX repository
+libhtml-parser-perl 3.72-3 Debian
+libhtml-tagset-perl 3.20-3 Debian
+libhtml-tree-perl 5.03-2 Debian
+libhttp-cookies-perl 6.01-1 Debian
+libhttp-date-perl 6.02-1 Debian
+libhttp-message-perl 6.11-1 Debian
+libhttp-negotiate-perl 6.00-2 Debian
+libhunspell-1.4-0 1.4.1-2+b2 Debian
+libhunspell-1.6-0 1.6.2-1~mx17+1 MX repository
+libhyphen0 2.8.8-5 Debian
+libical2 2.0.0-0.5+b1 Debian
+libice-dev 2:1.0.9-2 Debian
+libice6 2:1.0.9-2 Debian
+libicu-dev 57.1-6+deb9u3 Debian
+libicu57 57.1-6+deb9u3 Debian
+libid3tag0 0.15.1b-12 Debian
+libidl-2-0 0.8.14-4 Debian
+libidn11 1.33-1 Debian
+libidn11-dev 1.33-1 Debian
+libidn2-0 0.16-1+deb9u1 Debian
+libiec61883-0 1.2.0-2 Debian
+libieee1284-3 0.2.11-13 Debian
+libijs-0.35 0.35-12 Debian
+libilmbase-dev 2.2.0-12 Debian
+libilmbase12 2.2.0-12 Debian
+libimage-magick-perl 8:6.9.7.4+dfsg-11+deb9u7 Debian
+libimage-magick-q16-perl 8:6.9.7.4+dfsg-11+deb9u7 Debian
+libimlib2 1.4.8-1 Debian
+libimobiledevice-utils 1.2.0+mx17-1 MX repository
+libimobiledevice6 1.2.0+mx17-1 MX repository
+libindicator3-7 0.5.0-3+b1 Debian
+libindicator7 0.5.0-3+b1 Debian
+libinput-bin 1.6.3-1 Debian
+libinput10 1.6.3-1 Debian
+libio-html-perl 1.001-1 Debian
+libio-socket-ssl-perl 2.044-1 Debian
+libio-string-perl 1.08-3 Debian
+libiodbc2 3.52.9-2+b1 Debian
+libip4tc0 1.6.0+snapshot20161117-6 Debian
+libip6tc0 1.6.0+snapshot20161117-6 Debian
+libipc-run3-perl 0.048-1 Debian
+libiptc0 1.6.0+snapshot20161117-6 Debian
+libisc-export160 1:9.10.3.dfsg.P4-12.3+deb9u5 Debian
+libisc160 1:9.10.3.dfsg.P4-12.3+deb9u5 Debian
+libisccc140 1:9.10.3.dfsg.P4-12.3+deb9u5 Debian
+libisccfg140 1:9.10.3.dfsg.P4-12.3+deb9u5 Debian
+libisl15 0.18-1 Debian
+libiso9660-8 0.83-4.3+b1 Debian
+libisoburn1 1.4.6-1+b1 Debian
+libisofs6 1.4.6-1 Debian
+libitm1 6.3.0-18+deb9u1 Debian
+libiw30 30~pre9-12+b1 Debian
+libjack-jackd2-0 1.9.10+20150825git1ed50c92~dfsg-5 Debian
+libjansson4 2.9-1 Debian
+libjavascriptcoregtk-4.0-18 2.24.3-1~mx17+1 MX repository
+libjbig-dev 2.1-3.1+b2 Debian
+libjbig0 2.1-3.1+b2 Debian
+libjbig2dec0 0.13-4.1 Debian
+libjemalloc1 3.6.0-9.1 Debian
+libjim0.76 0.76-2+b1 Debian
+libjpeg-dev 1:1.5.1-2 Debian
+libjpeg-turbo-progs 1:1.5.1-2 Debian
+libjpeg62-turbo 1:1.5.1-2 Debian
+libjpeg62-turbo-dev 1:1.5.1-2 Debian
+libjs-coffeescript 1.10.0~dfsg-1 Debian
+libjs-excanvas 0.r3-4 Debian
+libjs-iscroll 5.2.0+dfsg1-1 Debian
+libjs-jquery 3.1.1-2+deb9u1 Debian
+libjs-mathjax 2.7.0-2 Debian
+libjs-sphinxdoc 1.4.9-2 Debian
+libjs-underscore 1.8.3~dfsg-1 Debian
+libjson-c3 0.12.1-1.1 Debian
+libjson-glib-1.0-0 1.2.6-1 Debian
+libjson-glib-1.0-common 1.2.6-1 Debian
+libjsoncpp1 1.7.4-3 Debian
+libjte1 1.20-2+b1 Debian
+libk5crypto3 1.15-1+deb9u1 Debian
+libkactivities6 4:4.13.3-2 Debian
+libkate1 0.4.1-7+b1 Debian
+libkatepartinterfaces4 4:4.14.3-4 Debian
+libkcmutils4 4:4.14.26-2 Debian
+libkde3support4 4:4.14.26-2 Debian
+libkdeclarative5 4:4.14.26-2 Debian
+libkdecore5 4:4.14.26-2 Debian
+libkdesu5 4:4.14.26-2 Debian
+libkdeui5 4:4.14.26-2 Debian
+libkdewebkit5 4:4.14.26-2 Debian
+libkdnssd4 4:4.14.26-2 Debian
+libkemoticons4 4:4.14.26-2 Debian
+libkexiv2-11 4:15.04.3-1 Debian
+libkexiv2-data 4:15.04.3-1 Debian
+libkeybinder-3.0-0 0.3.1-1 Debian
+libkeyutils1 1.5.9-9 Debian
+libkf5archive5 5.28.0-2 Debian
+libkf5attica5 5.28.0-1 Debian
+libkf5auth-data 5.28.0-2+deb9u1 Debian
+libkf5auth5 5.28.0-2+deb9u1 Debian
+libkf5bookmarks-data 5.28.0-1 Debian
+libkf5bookmarks5 5.28.0-1 Debian
+libkf5codecs-data 5.28.0-1 Debian
+libkf5codecs5 5.28.0-1+b2 Debian
+libkf5completion-data 5.28.0-1 Debian
+libkf5completion5 5.28.0-1 Debian
+libkf5config-data 5.28.0-2+deb9u1 Debian
+libkf5configcore5 5.28.0-2+deb9u1 Debian
+libkf5configgui5 5.28.0-2+deb9u1 Debian
+libkf5configwidgets-data 5.28.0-2 Debian
+libkf5configwidgets5 5.28.0-2 Debian
+libkf5coreaddons-data 5.28.0-2 Debian
+libkf5coreaddons5 5.28.0-2 Debian
+libkf5crash5 5.28.0-1 Debian
+libkf5dbusaddons-data 5.28.0-1 Debian
+libkf5dbusaddons5 5.28.0-1 Debian
+libkf5filemetadata-data 5.28.0-1 Debian
+libkf5filemetadata3 5.28.0-1+b2 Debian
+libkf5globalaccel-data 5.28.0-1 Debian
+libkf5globalaccel5 5.28.0-1 Debian
+libkf5guiaddons5 5.28.0-1 Debian
+libkf5i18n-data 5.28.0-2 Debian
+libkf5i18n5 5.28.0-2 Debian
+libkf5iconthemes-data 5.28.0-2 Debian
+libkf5iconthemes5 5.28.0-2 Debian
+libkf5itemviews-data 5.28.0-1 Debian
+libkf5itemviews5 5.28.0-1 Debian
+libkf5jobwidgets-data 5.28.0-2 Debian
+libkf5jobwidgets5 5.28.0-2 Debian
+libkf5kiocore5 5.28.0-2 Debian
+libkf5kiofilewidgets5 5.28.0-2 Debian
+libkf5kiontlm5 5.28.0-2 Debian
+libkf5kiowidgets5 5.28.0-2 Debian
+libkf5newstuff-data 5.28.0-1 Debian
+libkf5newstuff5 5.28.0-1 Debian
+libkf5notifications-data 5.28.0-1 Debian
+libkf5notifications5 5.28.0-1 Debian
+libkf5notifyconfig-data 5.28.0-1 Debian
+libkf5notifyconfig5 5.28.0-1 Debian
+libkf5service-bin 5.28.0-1 Debian
+libkf5service-data 5.28.0-1 Debian
+libkf5service5 5.28.0-1 Debian
+libkf5solid5 5.28.0-3 Debian
+libkf5solid5-data 5.28.0-3 Debian
+libkf5sonnet5-data 5.28.0-2 Debian
+libkf5sonnetcore5 5.28.0-2 Debian
+libkf5sonnetui5 5.28.0-2 Debian
+libkf5textwidgets-data 5.28.0-1 Debian
+libkf5textwidgets5 5.28.0-1 Debian
+libkf5wallet-bin 5.28.0-3 Debian
+libkf5wallet-data 5.28.0-3 Debian
+libkf5wallet5 5.28.0-3 Debian
+libkf5widgetsaddons-data 5.28.0-3 Debian
+libkf5widgetsaddons5 5.28.0-3 Debian
+libkf5windowsystem-data 5.28.0-2 Debian
+libkf5windowsystem5 5.28.0-2 Debian
+libkf5xmlgui-data 5.28.0-1 Debian
+libkf5xmlgui5 5.28.0-1 Debian
+libkfile4 4:4.14.26-2 Debian
+libkhtml5 4:4.14.26-2 Debian
+libkio5 4:4.14.26-2 Debian
+libkjsapi4 4:4.14.26-2 Debian
+libkjsembed4 4:4.14.26-2 Debian
+libklibc 2.0.4-9 Debian
+libkmediaplayer4 4:4.14.26-2 Debian
+libkmod2 23-2 Debian
+libknewstuff3-4 4:4.14.26-2 Debian
+libknotifyconfig4 4:4.14.26-2 Debian
+libkntlm4 4:4.14.26-2 Debian
+libkparts4 4:4.14.26-2 Debian
+libkpathsea6 2016.20160513.41080.dfsg-2+deb9u1 Debian
+libkprintutils4 4:4.14.26-2 Debian
+libkpty4 4:4.14.26-2 Debian
+libkrb5-3 1.15-1+deb9u1 Debian
+libkrb5support0 1.15-1+deb9u1 Debian
+libkrosscore4 4:4.14.26-2 Debian
+libksba8 1.3.5-2 Debian
+libktexteditor4 4:4.14.26-2 Debian
+libkwalletbackend5-5 5.28.0-3 Debian
+libkxmlrpcclient4 4:4.14.10-7+b2 Debian
+liblangtag-common 0.6.2-1 Debian
+liblangtag1 0.6.2-1 Debian
+liblapack3 3.7.0-2 Debian
+liblastfm1 1.0.9-1 Debian
+liblcms2-2 2.8-4+deb9u1 Debian
+liblcms2-dev 2.8-4+deb9u1 Debian
+liblcms2-utils 2.8-4+deb9u1 Debian
+libldap-2.4-2 2.4.44+dfsg-5+deb9u3 Debian
+libldap-common 2.4.44+dfsg-5+deb9u3 Debian
+libldb1 2:1.1.27-1+deb9u1 Debian
+liblightdm-gobject-1-0 1.18.3-1mx17+1 MX repository
+liblilv-0-0 0.24.2~dfsg0-1 Debian
+liblirc-client0 0.9.4c-9 Debian
+liblist-allutils-perl 0.12-1 Debian
+liblist-moreutils-perl 0.416-1+b1 Debian
+liblist-someutils-perl 0.53-1 Debian
+liblist-utilsby-perl 0.10-1 Debian
+liblivemedia57 2016.11.28-1+deb9u2 Debian
+libllvm3.8 1:3.8.1-24 Debian
+libllvm7 1:7.0.1-8~deb9u2 Debian
+liblocale-gettext-perl 1.07-3+b1 Debian
+liblockfile-bin 1.14-1+b1 Debian
+liblockfile-dev 1.14-1+b1 Debian
+liblockfile1 1.14-1+b1 Debian
+liblog-log4perl-perl 1.48-1+deb9u1 Debian
+liblogging-stdlog0 1.0.5-2+b2 Debian
+liblognorm5 2.0.1-1.1+b1 Debian
+liblqr-1-0 0.4.2-2+b2 Debian
+liblqr-1-0-dev 0.4.2-2+b2 Debian
+liblsan0 6.3.0-18+deb9u1 Debian
+libltdl-dev 2.4.6-2 Debian
+libltdl7 2.4.6-2 Debian
+liblua5.1-0 5.1.5-8.1+b2 Debian
+liblua5.2-0 5.2.4-1.1+b2 Debian
+libluajit-5.1-2 2.0.4+dfsg-1+b1 Debian
+libluajit-5.1-common 2.0.4+dfsg-1 Debian
+liblwp-mediatypes-perl 6.02-1 Debian
+liblwp-protocol-https-perl 6.06-2 Debian
+liblwres141 1:9.10.3.dfsg.P4-12.3+deb9u5 Debian
+liblz4-1 0.0~r131-2+b1 Debian
+liblzma-dev 5.2.2-1.2+b1 Debian
+liblzma5 5.2.2-1.2+b1 Debian
+liblzo2-2 2.08-1.2+b2 Debian
+libm17n-0 1.7.0-3+b1 Debian
+libm17n-dev 1.7.0-3+b1 Debian
+libmaa3 1.3.2-3+b2 Debian
+libmad0 0.15.1b-8+deb9u1 Debian
+libmagic-mgc 1:5.30-1+deb9u2 Debian
+libmagic1 1:5.30-1+deb9u2 Debian
+libmagick++-6-headers 8:6.9.7.4+dfsg-11+deb9u7 Debian
+libmagick++-6.q16-7 8:6.9.7.4+dfsg-11+deb9u7 Debian
+libmagick++-6.q16-dev 8:6.9.7.4+dfsg-11+deb9u7 Debian
+libmagickcore-6-arch-config 8:6.9.7.4+dfsg-11+deb9u7 Debian
+libmagickcore-6-headers 8:6.9.7.4+dfsg-11+deb9u7 Debian
+libmagickcore-6.q16-3 8:6.9.7.4+dfsg-11+deb9u7 Debian
+libmagickcore-6.q16-3-extra 8:6.9.7.4+dfsg-11+deb9u7 Debian
+libmagickcore-6.q16-dev 8:6.9.7.4+dfsg-11+deb9u7 Debian
+libmagickwand-6-headers 8:6.9.7.4+dfsg-11+deb9u7 Debian
+libmagickwand-6.q16-3 8:6.9.7.4+dfsg-11+deb9u7 Debian
+libmagickwand-6.q16-dev 8:6.9.7.4+dfsg-11+deb9u7 Debian
+libmariadbclient18 10.1.41-0+deb9u1 Debian
+libmatroska6v5 1.4.5-2 Debian
+libmbim-glib4 1.14.0-1+b1 Debian
+libmbim-proxy 1.14.0-1+b1 Debian
+libmenu-cache-bin 1.0.2-3 Debian
+libmenu-cache3 1.0.2-3 Debian
+libmetis5 5.1.0.dfsg-5+b2 Debian
+libmhash2 0.9.9.9-7 Debian
+libmicrodns0 0.0.3-3 Debian
+libmicrohttpd12 0.9.51-1 Debian
+libmikmod3 3.3.10-1 Debian
+libmime-charset-perl 1.012-2 Debian
+libmjpegutils-2.1-0 1:2.1.0+debian-5 Debian
+libmlt++3 6.4.1-4 Debian
+libmlt-data 6.4.1-4 Debian
+libmlt6 6.4.1-4 Debian
+libmm-glib0 1.6.4-1 Debian
+libmms0 0.6.4-2 Debian
+libmng1 1.0.10+dfsg-3.1+b5 Debian
+libmnl0 1.0.4-2 Debian
+libmodplug1 1:0.8.8.5-3 Debian
+libmodule-implementation-perl 0.09-1 Debian
+libmodule-runtime-perl 0.014-2 Debian
+libmono-addins-gui0.2-cil 1.0+git20130406.adcd75b-4 Debian
+libmono-addins0.2-cil 1.0+git20130406.adcd75b-4 Debian
+libmono-cairo4.0-cil 4.6.2.7+dfsg-1 Debian
+libmono-corlib4.5-cil 4.6.2.7+dfsg-1 Debian
+libmono-posix4.0-cil 4.6.2.7+dfsg-1 Debian
+libmono-security4.0-cil 4.6.2.7+dfsg-1 Debian
+libmono-sharpzip4.84-cil 4.6.2.7+dfsg-1 Debian
+libmono-system-configuration4.0-cil 4.6.2.7+dfsg-1 Debian
+libmono-system-core4.0-cil 4.6.2.7+dfsg-1 Debian
+libmono-system-drawing4.0-cil 4.6.2.7+dfsg-1 Debian
+libmono-system-security4.0-cil 4.6.2.7+dfsg-1 Debian
+libmono-system-xml4.0-cil 4.6.2.7+dfsg-1 Debian
+libmono-system4.0-cil 4.6.2.7+dfsg-1 Debian
+libmount1 2.29.2-1+deb9u1 Debian
+libmovit5 1.4.0-1 Debian
+libmp3-tag-perl 1.13-1 Debian
+libmp3lame0 3.99.5+repack1-9+b2 Debian
+libmpcdec6 2:0.1~r495-1+b1 Debian
+libmpdec2 2.4.2-1 Debian
+libmpeg2-4 0.5.1-7+b2 Debian
+libmpeg2encpp-2.1-0 1:2.1.0+debian-5 Debian
+libmpfr4 3.1.5-1 Debian
+libmpg123-0 1.23.8-1+b1 Debian
+libmplex2-2.1-0 1:2.1.0+debian-5 Debian
+libmpx2 6.3.0-18+deb9u1 Debian
+libmro-compat-perl 0.12-1 Debian
+libmsgpackc2 1.4.2-4 Debian
+libmspack0 0.5-1+deb9u3 Debian
+libmtdev1 1.1.5-1+b1 Debian
+libmtp-common 1.1.13-1 Debian
+libmtp-runtime 1.1.13-1 Debian
+libmtp9 1.1.13-1 Debian
+libmulticobex1 0.24-5+b1 Debian
+libmygpo-qt1 1.0.9-2 Debian
+libmypaint-1.3-0 1.3.0-2~mx17+2 MX repository
+libmypaint-common 1.3.0-2~mx17+2 MX repository
+libmysofa0 0.6~dfsg0-1mx17+1 MX repository
+libmythes-1.2-0 2:1.2.4-3 Debian
+libnamespace-autoclean-perl 0.28-1 Debian
+libnamespace-clean-perl 0.27-1 Debian
+libnautilus-extension1a 3.22.3-1+deb9u1 Debian
+libncurses5 6.0+20161126-1+deb9u2 Debian
+libncurses5-dev 6.0+20161126-1+deb9u2 Debian
+libncursesw5 6.0+20161126-1+deb9u2 Debian
+libncursesw5-dev 6.0+20161126-1+deb9u2 Debian
+libndp0 1.6-1+b1 Debian
+libneon27-gnutls 0.30.2-2 Debian
+libnepomuk4 4:4.14.26-2 Debian
+libnepomukquery4a 4:4.14.26-2 Debian
+libnepomukutils4 4:4.14.26-2 Debian
+libnet-dbus-perl 1.1.0-4+b1 Debian
+libnet-http-perl 6.12-1 Debian
+libnet-ssleay-perl 1.80-1 Debian
+libnetfilter-conntrack3 1.0.6-2 Debian
+libnettle6 3.3-1+b2 Debian
+libnewt0.52 0.52.19-1+b1 Debian
+libnfnetlink0 1.0.1-3 Debian
+libnfs8 1.11.0-2 Debian
+libnfsidmap2 0.25-5.1 Debian
+libnghttp2-14 1.18.1-1+deb9u1 Debian
+libnih-dbus1 1.0.3-8 Debian
+libnih1 1.0.3-8 Debian
+libnl-3-200 3.2.27-2 Debian
+libnl-genl-3-200 3.2.27-2 Debian
+libnl-route-3-200 3.2.27-2 Debian
+libnm-glib-vpn1 1.6.2-3+deb9u2 Debian
+libnm-glib4 1.6.2-3+deb9u2 Debian
+libnm-gtk0 1.4.4-1+deb9u1 Debian
+libnm-util2 1.6.2-3+deb9u2 Debian
+libnm0 1.6.2-3+deb9u2 Debian
+libnma0 1.4.4-1+deb9u1 Debian
+libnotify-bin 0.7.7-2 Debian
+libnotify4 0.7.7-2 Debian
+libnpth0 1.3-1 Debian
+libnspr4 2:4.12-6 Debian
+libnss-mdns 0.10-8 Debian
+libnss-myhostname 232-25+deb9u12 Debian
+libnss3 2:3.26.2-1.1+deb9u1 Debian
+libntfs-3g871 1:2016.2.22AR.1+dfsg-1+deb9u1 Debian
+libntrack-qt4-1 016-1.3 Debian
+libntrack0 016-1.3 Debian
+libnuma1 2.0.11-2.1 Debian
+libnumber-compare-perl 0.03-1 Debian
+liboauth0 1.0.1-1 Debian
+libobexftp0 0.24-5+b1 Debian
+libodfgen-0.1-1 0.1.6-2 Debian
+libofa0 0.9.3-15 Debian
+libogg0 1.3.2-1 Debian
+libokularcore7 4:16.08.2-1+deb9u1 Debian
+libopenal-data 1:1.17.2-4 Debian
+libopenal1 1:1.17.2-4+b2 Debian
+libopenconnect5 7.08-1 Debian
+libopencore-amrnb0 0.1.3-2.1+b2 Debian
+libopencore-amrwb0 0.1.3-2.1+b2 Debian
+libopencv-calib3d2.4v5 2.4.9.1+dfsg1-2 Debian
+libopencv-contrib2.4v5 2.4.9.1+dfsg1-2 Debian
+libopencv-core2.4v5 2.4.9.1+dfsg1-2 Debian
+libopencv-features2d2.4v5 2.4.9.1+dfsg1-2 Debian
+libopencv-flann2.4v5 2.4.9.1+dfsg1-2 Debian
+libopencv-gpu2.4v5 2.4.9.1+dfsg1-2 Debian
+libopencv-highgui2.4-deb0 2.4.9.1+dfsg1-2 Debian
+libopencv-imgproc2.4v5 2.4.9.1+dfsg1-2 Debian
+libopencv-legacy2.4v5 2.4.9.1+dfsg1-2 Debian
+libopencv-ml2.4v5 2.4.9.1+dfsg1-2 Debian
+libopencv-objdetect2.4v5 2.4.9.1+dfsg1-2 Debian
+libopencv-ocl2.4v5 2.4.9.1+dfsg1-2 Debian
+libopencv-photo2.4v5 2.4.9.1+dfsg1-2 Debian
+libopencv-stitching2.4v5 2.4.9.1+dfsg1-2 Debian
+libopencv-superres2.4v5 2.4.9.1+dfsg1-2 Debian
+libopencv-ts2.4v5 2.4.9.1+dfsg1-2 Debian
+libopencv-video2.4v5 2.4.9.1+dfsg1-2 Debian
+libopencv-videostab2.4v5 2.4.9.1+dfsg1-2 Debian
+libopenexr-dev 2.2.0-11+b1 Debian
+libopenexr22 2.2.0-11+b1 Debian
+libopengl0 1.1.0-1~mx17+1 MX repository
+libopenjp2-7 2.1.2-1.1+deb9u3 Debian
+libopenjp2-7-dev 2.1.2-1.1+deb9u3 Debian
+libopenmpt-modplug1 0.2.7386~beta20.3-3+deb9u3 Debian
+libopenmpt0 0.2.7386~beta20.3-3+deb9u3 Debian
+libopenobex2 1.7.2-1 Debian
+libopenraw1v5 0.0.9-3.10 Debian
+libopenrawgnome1v5 0.0.9-3.10 Debian
+libopts25 1:5.18.12-3 Debian
+libopus0 1.2~alpha2-1 Debian
+libopusfile0 0.8-1+b1 Debian
+liborbit-2-0 1:2.14.19-2+b1 Debian
+liborbit2 1:2.14.19-2+b1 Debian
+liborc-0.4-0 1:0.4.26-2 Debian
+libosmesa6 18.2.6-1~mx17+1 MX repository
+libossp-uuid-perl 1.6.2-1.5+b4 Debian
+libossp-uuid16 1.6.2-1.5+b4 Debian
+libostree-1-1 2018.8-1~mx17+1 MX repository
+libotf-dev 0.9.13-3+b1 Debian
+libotf0 0.9.13-3+b1 Debian
+libotr5 4.1.1-2 Debian
+libout123-0 1.23.8-1+b1 Debian
+libp11-kit-dev 0.23.3-2 Debian
+libp11-kit0 0.23.3-2 Debian
+libpackage-deprecationmanager-perl 0.17-1 Debian
+libpackage-stash-perl 0.37-1 Debian
+libpackagekit-glib2-18 1.1.5-2+deb9u1 Debian
+libpam-gnome-keyring 3.20.0-3 Debian
+libpam-modules 1.1.8-3.6 Debian
+libpam-modules-bin 1.1.8-3.6 Debian
+libpam-runtime 1.1.8-3.6 Debian
+libpam-systemd 232-25+deb9u12 Debian
+libpam0g 1.1.8-3.6 Debian
+libpango-1.0-0 1.40.5-1 Debian
+libpango-perl 1.227-1+b1 Debian
+libpango1.0-0 1.40.5-1 Debian
+libpango1.0-dev 1.40.5-1 Debian
+libpangocairo-1.0-0 1.40.5-1 Debian
+libpangoft2-1.0-0 1.40.5-1 Debian
+libpangomm-1.4-1v5 2.40.1-3 Debian
+libpangox-1.0-0 0.0.2-5+b2 Debian
+libpangoxft-1.0-0 1.40.5-1 Debian
+libpaper-utils 1.1.24+nmu5 Debian
+libpaper1 1.1.24+nmu5 Debian
+libparallel-forkmanager-perl 1.19-1 Debian
+libparams-classify-perl 0.013-6+b1 Debian
+libparams-util-perl 1.07-3+b1 Debian
+libparams-validate-perl 1.26-1 Debian
+libparams-validationcompiler-perl 0.23-1 Debian
+libparted-fs-resize0 3.2-17 Debian
+libparted2 3.2-17 Debian
+libpathplan4 2.38.0-17 Debian
+libpcap0.8 1.8.1-3 Debian
+libpci3 1:3.5.2-1 Debian
+libpciaccess0 0.13.4-1+b2 Debian
+libpcre16-3 2:8.39-3 Debian
+libpcre2-8-0 10.22-3 Debian
+libpcre3 2:8.39-3 Debian
+libpcre3-dev 2:8.39-3 Debian
+libpcre32-3 2:8.39-3 Debian
+libpcrecpp0v5 2:8.39-3 Debian
+libpcsclite1 1.8.20-1 Debian
+libpdf-api2-perl 2.030-1 Debian
+libperl5.24 5.24.1-3+deb9u5 Debian
+libpgm-5.2-0 5.2.122~dfsg-2 Debian
+libphonon4 4:4.10.1-1~mx17+1 MX repository
+libphonon4qt5-4 4:4.10.1-1~mx17+1 MX repository
+libpipeline1 1.4.1-2 Debian
+libpixman-1-0 0.34.0-1 Debian
+libpixman-1-dev 0.34.0-1 Debian
+libpkcs11-helper1 1.21-1 Debian
+libplacebo4 0.4.0-2~mx17+1 MX repository
+libplasma3 4:4.14.26-2 Debian
+libplist3 1.12+git+1+e37ca00-0.3 Debian
+libplot2c2 2.6-7 Debian
+libplymouth4 0.9.2-4 Debian
+libpng-dev 1.6.28-1+deb9u1 Debian
+libpng16-16 1.6.28-1+deb9u1 Debian
+libpodofo0.9.4 0.9.4-6 Debian
+libpolkit-agent-1-0 0.105-18+deb9u1 Debian
+libpolkit-backend-1-0 0.105-18+deb9u1 Debian
+libpolkit-gobject-1-0 0.105-18+deb9u1 Debian
+libpolkit-qt-1-1 0.112.0-5 Debian
+libpolkit-qt5-1-1 0.112.0-5 Debian
+libpoppler-dev 0.48.0-2+deb9u2 Debian
+libpoppler-glib-dev 0.48.0-2+deb9u2 Debian
+libpoppler-glib8 0.48.0-2+deb9u2 Debian
+libpoppler-private-dev 0.48.0-2+deb9u2 Debian
+libpoppler-qt4-4 0.48.0-2+deb9u2 Debian
+libpoppler-qt5-1 0.48.0-2+deb9u2 Debian
+libpoppler64 0.48.0-2+deb9u2 Debian
+libpopt0 1.16-10+b2 Debian
+libportaudio2 19.6.0-1 Debian
+libportsmf0 0.1~svn20101010-5 Debian
+libpostproc54 7:3.3.4-1mx17+2 MX repository
+libpotrace0 1.13-3 Debian
+libproc-processtable-perl 0.53-2 Debian
+libprocps6 2:3.3.12-3+deb9u1 Debian
+libprojectm2v5 2.1.0+dfsg-4+b3 Debian
+libprotobuf-lite10 3.0.0-9 Debian
+libprotobuf10 3.0.0-9 Debian
+libproxy1v5 0.4.14-2 Debian
+libpsl5 0.17.0-3 Debian
+libpstoedit0c2a 3.70-3+b2 Debian
+libptexenc1 2016.20160513.41080.dfsg-2+deb9u1 Debian
+libpthread-stubs0-dev 0.3-4 Debian
+libpulse-mainloop-glib0 10.0-1+deb9u1 Debian
+libpulse0 10.0-1+deb9u1 Debian
+libpulsedsp 10.0-1+deb9u1 Debian
+libpwquality-common 1.3.0-1 Debian
+libpwquality1 1.3.0-1+b1 Debian
+libpython-stdlib 2.7.13-2 Debian
+libpython2.7 2.7.13-2+deb9u3 Debian
+libpython2.7-minimal 2.7.13-2+deb9u3 Debian
+libpython2.7-stdlib 2.7.13-2+deb9u3 Debian
+libpython3-stdlib 3.5.3-1 Debian
+libpython3.5 3.5.3-1+deb9u1 Debian
+libpython3.5-minimal 3.5.3-1+deb9u1 Debian
+libpython3.5-stdlib 3.5.3-1+deb9u1 Debian
+libqca2 2.1.1-4+b2 Debian
+libqimageblitz4 1:0.0.6-4+b2 Debian
+libqjson0 0.8.1-3 Debian
+libqmi-glib5 1.16.2-1 Debian
+libqmi-proxy 1.16.2-1 Debian
+libqmobipocket1 4:16.08.0-1 Debian
+libqpdf17 6.0.0-2 Debian
+libqrencode3 3.4.4-1+b2 Debian
+libqt4-dbus 4:4.8.7+dfsg-11 Debian
+libqt4-declarative 4:4.8.7+dfsg-11 Debian
+libqt4-designer 4:4.8.7+dfsg-11 Debian
+libqt4-network 4:4.8.7+dfsg-11 Debian
+libqt4-opengl 4:4.8.7+dfsg-11 Debian
+libqt4-qt3support 4:4.8.7+dfsg-11 Debian
+libqt4-script 4:4.8.7+dfsg-11 Debian
+libqt4-sql 4:4.8.7+dfsg-11 Debian
+libqt4-sql-sqlite 4:4.8.7+dfsg-11 Debian
+libqt4-svg 4:4.8.7+dfsg-11 Debian
+libqt4-xml 4:4.8.7+dfsg-11 Debian
+libqt4-xmlpatterns 4:4.8.7+dfsg-11 Debian
+libqt5clucene5 5.7.1-1 Debian
+libqt5concurrent5 5.7.1+dfsg-3+deb9u1 Debian
+libqt5core5a 5.7.1+dfsg-3+deb9u1 Debian
+libqt5dbus5 5.7.1+dfsg-3+deb9u1 Debian
+libqt5designer5 5.7.1-1 Debian
+libqt5gui5 5.7.1+dfsg-3+deb9u1 Debian
+libqt5help5 5.7.1-1 Debian
+libqt5network5 5.7.1+dfsg-3+deb9u1 Debian
+libqt5opengl5 5.7.1+dfsg-3+deb9u1 Debian
+libqt5printsupport5 5.7.1+dfsg-3+deb9u1 Debian
+libqt5qml5 5.7.1-2+b2 Debian
+libqt5quick5 5.7.1-2+b2 Debian
+libqt5script5 5.7.1~20161021+dfsg-2 Debian
+libqt5sql5 5.7.1+dfsg-3+deb9u1 Debian
+libqt5sql5-sqlite 5.7.1+dfsg-3+deb9u1 Debian
+libqt5svg5 5.7.1~20161021-2+b2 Debian
+libqt5test5 5.7.1+dfsg-3+deb9u1 Debian
+libqt5webkit5 5.7.1+dfsg-1 Debian
+libqt5widgets5 5.7.1+dfsg-3+deb9u1 Debian
+libqt5x11extras5 5.7.1~20161021-2 Debian
+libqt5xml5 5.7.1+dfsg-3+deb9u1 Debian
+libqtcore4 4:4.8.7+dfsg-11 Debian
+libqtdbus4 4:4.8.7+dfsg-11 Debian
+libqtgui4 4:4.8.7+dfsg-11 Debian
+libqtwebkit4 2.3.4.dfsg-9.1 Debian
+libquadmath0 6.3.0-18+deb9u1 Debian
+libquazip1 0.7.2-1 Debian
+libquazip5-1 0.7.2-1 Debian
+libqxt-core0 0.6.2-3 Debian
+libqxt-gui0 0.6.2-3 Debian
+libraptor2-0 2.0.14-1+b1 Debian
+librarian0 0.8.1-6+b1 Debian
+librasqal3 0.9.32-1+b1 Debian
+libraw1394-11 2.1.2-1+b1 Debian
+libraw15 0.17.2-6+deb9u1 Debian
+librdf0 1.0.17-1.1 Debian
+libreadline-dev 7.0-3 Debian
+libreadline5 5.2+dfsg-3+b1 Debian
+libreadline7 7.0-3 Debian
+libreadonly-perl 2.050-1 Debian
+librecode0 3.6-23 Debian
+libregexp-common-perl 2016060801-1 Debian
+libreoffice-base-core 1:6.0.1-1~bpo9+1 MX repository
+libreoffice-common 1:6.0.1-1~bpo9+1 MX repository
+libreoffice-core 1:6.0.1-1~bpo9+1 MX repository
+libreoffice-style-galaxy 1:6.0.1-1~bpo9+1 MX repository
+libreoffice-style-tango 1:6.0.1-1~bpo9+1 MX repository
+libreoffice-writer 1:6.0.1-1~bpo9+1 MX repository
+libreplaygain1 1.0~r475-1 Debian
+libresid-builder0c2a 2.1.1-15 Debian
+librest-0.7-0 0.8.0-2 Debian
+librevenge-0.0-0 0.0.4-6 Debian
+librhash0 1.3.3-1+b2 Debian
+librole-tiny-perl 2.000005-1 Debian
+librsvg2-2 2.40.16-1+b1 Debian
+librsvg2-common 2.40.16-1+b1 Debian
+librsvg2-dev 2.40.16-1+b1 Debian
+librtaudio5a 4.1.2~ds0-4 Debian
+librtmp1 2.4+20151223.gitfa8646d.1-1+b1 Debian
+librubberband2 1.8.1-7 Debian
+libruby2.3 2.3.3-1+deb9u6 Debian
+libsamplerate0 0.1.8-8+b2 Debian
+libsane 1.0.25-4.1 Debian
+libsane-common 1.0.25-4.1 Debian
+libsane-hpaio 3.18.12+dfsg0-2~mx17+1 MX repository
+libsane-perl 0.05-2+b4 Debian
+libsasl2-2 2.1.27~101-g0780600+dfsg-3 Debian
+libsasl2-modules-db 2.1.27~101-g0780600+dfsg-3 Debian
+libsbc1 1.3-2 Debian
+libsbsms10 2.0.2-2 Debian
+libscalar-list-utils-perl 1:1.47-1 Debian
+libsdl-image1.2 1.2.12-5+deb9u2 Debian
+libsdl-mixer1.2 1.2.12-11+b3 Debian
+libsdl1.2debian 1.2.15+dfsg1-4 Debian
+libsdl2-2.0-0 2.0.5+dfsg1-2 Debian
+libsdl2-image-2.0-0 2.0.1+dfsg-2+deb9u2 Debian
+libseccomp2 2.3.1-2.1+deb9u1 Debian
+libsecret-1-0 0.18.5-3.1 Debian
+libsecret-common 0.18.5-3.1 Debian
+libselinux1 2.6-3+b3 Debian
+libselinux1-dev 2.6-3+b3 Debian
+libsemanage-common 2.6-2 Debian
+libsemanage1 2.6-2 Debian
+libsensors4 1:3.4.0-4 Debian
+libsepol1 2.6-2 Debian
+libsepol1-dev 2.6-2 Debian
+libserd-0-0 0.26.0~dfsg0-1 Debian
+libset-intspan-perl 1.19-1 Debian
+libshine3 3.1.0-5 Debian
+libshout3 2.3.1-3 Debian
+libsidplay1v5 1.36.59-10 Debian
+libsidplay2 2.1.1-15 Debian
+libsigc++-2.0-0v5 2.10.0-1 Debian
+libsigsegv2 2.10-5 Debian
+libslang2 2.3.1-5 Debian
+libsm-dev 2:1.2.2-1+b3 Debian
+libsm6 2:1.2.2-1+b3 Debian
+libsmartcols1 2.29.2-1+deb9u1 Debian
+libsmbclient 2:4.5.16+dfsg-1+deb9u2 Debian
+libsnappy1v5 1.1.3-3 Debian
+libsndfile1 1.0.27-3 Debian
+libsndio6.1 1.1.0-3 Debian
+libsnmp-base 5.7.3+dfsg-1.7+deb9u1 Debian
+libsnmp30 5.7.3+dfsg-1.7+deb9u1 Debian
+libsodium18 1.0.11-2 Debian
+libsodium23 1.0.16-2~mx17+1 MX repository
+libsolid4 4:4.14.26-2 Debian
+libsombok3 2.4.0-1+b2 Debian
+libsoprano4 2.9.4+dfsg-5 Debian
+libsord-0-0 0.16.0~dfsg0-1+b1 Debian
+libsort-key-perl 1.33-1+b3 Debian
+libsoundtouch1 1.9.2-2+deb9u1 Debian
+libsoup-gnome2.4-1 2.56.0-2+deb9u2 Debian
+libsoup2.4-1 2.56.0-2+deb9u2 Debian
+libsox-fmt-all 14.4.1-5+deb9u2 Debian
+libsox-fmt-alsa 14.4.1-5+deb9u2 Debian
+libsox-fmt-ao 14.4.1-5+deb9u2 Debian
+libsox-fmt-base 14.4.1-5+deb9u2 Debian
+libsox-fmt-mp3 14.4.1-5+deb9u2 Debian
+libsox-fmt-oss 14.4.1-5+deb9u2 Debian
+libsox-fmt-pulse 14.4.1-5+deb9u2 Debian
+libsox2 14.4.1-5+deb9u2 Debian
+libsoxr0 0.1.2-2 Debian
+libspandsp2 0.0.6+dfsg-0.1 Debian
+libspatialaudio0 0.3.0+git20180730+dfsg1-1~mx17+1 MX repository
+libspecio-perl 0.33-1 Debian
+libspectre1 0.2.8-1 Debian
+libspeex1 1.2~rc1.2-1+b2 Debian
+libspeexdsp1 1.2~rc1.2-1+b2 Debian
+libsqlite3-0 3.16.2-5+deb9u1 Debian
+libsqlite3-dev 3.16.2-5+deb9u1 Debian
+libsratom-0-0 0.6.0~dfsg0-1 Debian
+libsrtp0 1.4.5~20130609~dfsg-2 Debian
+libss2 1.43.4-2+deb9u1 Debian
+libssh-gcrypt-4 0.7.3-2+deb9u2 Debian
+libssh2-1 1.7.0-1+deb9u1 Debian
+libssl-dev 1.1.0l-1~deb9u1 Debian
+libssl1.0.2 1.0.2t-1~deb9u1 Debian
+libssl1.1 1.1.0l-1~deb9u1 Debian
+libstartup-notification0 0.12-4+b2 Debian
+libstdc++-6-dev 6.3.0-18+deb9u1 Debian
+libstdc++6 6.3.0-18+deb9u1 Debian
+libstoken1 0.91-1 Debian
+libsub-exporter-perl 0.986-1 Debian
+libsub-exporter-progressive-perl 0.001013-1 Debian
+libsub-identify-perl 0.12-2+b1 Debian
+libsub-install-perl 0.928-1 Debian
+libsub-name-perl 0.21-1 Debian
+libsuil-0-0 0.8.4~dfsg0-2 Debian
+libsuitesparseconfig4 1:4.5.4-1 Debian
+libswresample2 7:3.3.4-1mx17+2 MX repository
+libswscale4 7:3.3.4-1mx17+2 MX repository
+libsynctex1 2016.20160513.41080.dfsg-2+deb9u1 Debian
+libsystemd0 232-25+deb9u12 Debian
+libtag1v5 1.11.1+dfsg.1-0.1 Debian
+libtag1v5-vanilla 1.11.1+dfsg.1-0.1 Debian
+libtalloc2 2.1.8-1 Debian
+libtasn1-6 4.10-1.1+deb9u1 Debian
+libtasn1-6-dev 4.10-1.1+deb9u1 Debian
+libtbb2 4.3~20150611-2 Debian
+libtcl8.6 8.6.6+dfsg-1+b1 Debian
+libtdb1 1.3.11-2 Debian
+libteamdctl0 1.26-1+b1 Debian
+libterm-readkey-perl 2.37-1 Debian
+libtermkey1 0.19-1 Debian
+libtest-fatal-perl 0.014-1 Debian
+libtevent0 0.9.31-1 Debian
+libtexlua52 2016.20160513.41080.dfsg-2+deb9u1 Debian
+libtexluajit2 2016.20160513.41080.dfsg-2+deb9u1 Debian
+libtext-bibtex-perl 0.78-1 Debian
+libtext-charwidth-perl 0.04-7+b5 Debian
+libtext-csv-perl 1.33-2 Debian
+libtext-csv-xs-perl 1.26-1 Debian
+libtext-glob-perl 0.10-1 Debian
+libtext-iconv-perl 1.7-5+b4 Debian
+libtext-roman-perl 3.5-1 Debian
+libtext-unidecode-perl 1.30-1 Debian
+libtext-wrapi18n-perl 0.06-7.1 Debian
+libthai-data 0.1.26-1 Debian
+libthai-dev 0.1.26-1 Debian
+libthai0 0.1.26-1 Debian
+libtheora0 1.1.1+dfsg.1-14+b1 Debian
+libthreadweaver4 4:4.14.26-2 Debian
+libthunarx-2-0 1.6.15-1~mx17 MX repository
+libtie-cycle-perl 1.222-1 Debian
+libtiff-tools 4.0.8-2+deb9u4 Debian
+libtiff5 4.0.8-2+deb9u4 Debian
+libtiff5-dev 4.0.8-2+deb9u4 Debian
+libtiffxx5 4.0.8-2+deb9u4 Debian
+libtimedate-perl 2.3000-2 Debian
+libtinfo-dev 6.0+20161126-1+deb9u2 Debian
+libtinfo5 6.0+20161126-1+deb9u2 Debian
+libtinyxml2.6.2v5 2.6.2-4 Debian
+libtirpc1 0.2.5-1.2+deb9u1 Debian
+libtk8.6 8.6.6-1+b1 Debian
+libtomcrypt0 1.17-9 Debian
+libtommath1 1.0-4 Debian
+libtool 2.4.6-2 Debian
+libtool-bin 2.4.6-2 Debian
+libtorrent-rasterbar9 1.1.4+git20170719-0mx17+1 MX repository
+libtre5 0.8.0-6 Debian
+libtry-tiny-perl 0.28-1 Debian
+libtsan0 6.3.0-18+deb9u1 Debian
+libtspi1 0.3.14+fixed1-1 Debian
+libtumbler-1-0 0.1.31-2+b3 Debian
+libturbojpeg0 1:1.5.1-2 Debian
+libtwolame0 0.3.13-2 Debian
+libtxc-dxtn-s2tc 1.0+git20151227-2 Debian
+libtxc-dxtn-s2tc:i386 1.0+git20151227-2 Debian
+libubsan0 6.3.0-18+deb9u1 Debian
+libuchardet0 0.0.1-1+b2 Debian
+libudev1 232-25+deb9u12 Debian
+libudisks2-0 2.1.8-1 Debian
+libumfpack5 1:4.5.4-1 Debian
+libumlib0 0.8.2-1.1+b1 Debian
+libunbound2 1.6.0-3+deb9u2 Debian
+libunibilium0 1.2.0-1 Debian
+libunibreak1 1.1-2 Debian
+libunicode-collate-perl 1.19-1 Debian
+libunicode-linebreak-perl 0.0.20160702-1+b1 Debian
+libuniconf4.6 4.6.1-12~deb9u1 Debian
+libunique-1.0-0 1.1.6-5 Debian
+libunistring0 0.9.6+really0.9.3-0.1 Debian
+libupnp6 1:1.6.19+git20160116-1.2 Debian
+libupower-glib3 0.99.4-4+b1 Debian
+liburi-perl 1.71-1 Debian
+libusageenvironment3 2016.11.28-1+deb9u2 Debian
+libusb-0.1-4 2:0.1.12-30 Debian
+libusb-1.0-0 2:1.0.21-1 Debian
+libusbmuxd4 1.0.10-git20171008+1 MX repository
+libuser1 1:0.62~dfsg-0.1 Debian
+libustr-1.0-1 1.0.4-6 Debian
+libutempter0 1.1.6-3 Debian
+libuuid1 2.29.2-1+deb9u1 Debian
+libuv1 1.9.1-3 Debian
+libv4l-0 1.12.3-1 Debian
+libv4lconvert0 1.12.3-1 Debian
+libva-drm1 1.7.3-2 Debian
+libva-drm2 2.3.0-2~mx17+1 MX repository
+libva-wayland1 1.7.3-2 Debian
+libva-wayland2 2.3.0-2~mx17+1 MX repository
+libva-x11-1 1.7.3-2 Debian
+libva-x11-2 2.3.0-2~mx17+1 MX repository
+libva1 1.7.3-2 Debian
+libva2 2.3.0-2~mx17+1 MX repository
+libvamp-hostsdk3v5 2.6~repack0-3 Debian
+libvariable-magic-perl 0.61-1 Debian
+libvcdinfo0 0.7.24+dfsg-0.2 Debian
+libvdpau-va-gl1 0.4.2-1 Debian
+libvdpau1 1.1.1-6 Debian
+libvisio-0.1-1 0.1.5-4+b1 Debian
+libvisual-0.4-0 0.4.0-10 Debian
+libvlc-bin 3.0.8-2mx17+2 MX repository
+libvlc5 3.0.8-2mx17+2 MX repository
+libvlccore9 3.0.8-2mx17+2 MX repository
+libvo-aacenc0 0.1.3-1 Debian
+libvo-amrwbenc0 0.1.3-1 Debian
+libvorbis0a 1.3.5-4+deb9u2 Debian
+libvorbisenc2 1.3.5-4+deb9u2 Debian
+libvorbisfile3 1.3.5-4+deb9u2 Debian
+libvorbisidec1 1.0.2+svn18153-1+deb9u1 Debian
+libvpx4 1.6.1-3+deb9u1 Debian
+libvte-2.91-0 0.46.1-1 Debian
+libvte-2.91-common 0.46.1-1 Debian
+libvte-common 1:0.28.2-5 Debian
+libvte9 1:0.28.2-5+b2 Debian
+libvterm0 0~bzr684-1 Debian
+libvulkan1 1.1.70+dfsg1-1~mx17+1 MX repository
+libwacom-common 0.22-1 Debian
+libwacom2 0.22-1+b1 Debian
+libwavpack1 5.0.0-2+deb9u2 Debian
+libwayland-bin 1.16.0-1~mx17+1 MX repository
+libwayland-client0 1.16.0-1~mx17+1 MX repository
+libwayland-cursor0 1.16.0-1~mx17+1 MX repository
+libwayland-dev 1.16.0-1~mx17+1 MX repository
+libwayland-egl1 1.16.0-1~mx17+1 MX repository
+libwayland-egl1-mesa 18.2.6-1~mx17+1 MX repository
+libwayland-server0 1.16.0-1~mx17+1 MX repository
+libwbclient0 2:4.5.16+dfsg-1+deb9u2 Debian
+libwebkit2gtk-4.0-37 2.24.3-1~mx17+1 MX repository
+libwebp6 0.6.1-2~mx17+1 MX repository
+libwebpdemux2 0.6.1-2~mx17+1 MX repository
+libwebpmux2 0.5.2-1 Debian
+libwebpmux3 0.6.1-2~mx17+1 MX repository
+libwebrtc-audio-processing1 0.3-1 Debian
+libwildmidi-config 0.4.0-2 Debian
+libwildmidi2 0.4.0-2+b2 Debian
+libwmf-dev 0.2.8.4-10.6 Debian
+libwmf0.2-7 0.2.8.4-10.6 Debian
+libwnck-common 2.30.7-5.1 Debian
+libwnck22 2.30.7-5.1 Debian
+libwpd-0.10-10 0.10.1-5+deb9u1 Debian
+libwpg-0.3-3 0.3.1-3 Debian
+libwrap0 7.6.q-26 Debian
+libwvstreams4.6-base 4.6.1-12~deb9u1 Debian
+libwvstreams4.6-extras 4.6.1-12~deb9u1 Debian
+libwww-perl 6.15-1 Debian
+libwww-robotrules-perl 6.01-1 Debian
+libwxbase3.0-0v5 3.0.2+dfsg-4 Debian
+libwxgtk3.0-0v5 3.0.2+dfsg-4 Debian
+libx11-6 2:1.6.4-3+deb9u1 Debian
+libx11-data 2:1.6.4-3+deb9u1 Debian
+libx11-dev 2:1.6.4-3+deb9u1 Debian
+libx11-xcb-dev 2:1.6.4-3+deb9u1 Debian
+libx11-xcb1 2:1.6.4-3+deb9u1 Debian
+libx264-148 2:0.148.2748+git97eaef2-1 Debian
+libx264-155 2:0.155.2917+git0a84d98-2~mx17+1 MX repository
+libx265-146 2.6-3~mx17+1 MX repository
+libx265-95 2.1-2+b2 Debian
+libx86-1 1.1+ds1-10.2 Debian
+libx86emu1 1.11-2 Debian
+libxapian30 1.4.3-2+deb9u3 Debian
+libxatracker2 18.2.6-1~mx17+1 MX repository
+libxau-dev 1:1.0.8-1 Debian
+libxau6 1:1.0.8-1 Debian
+libxaw7 2:1.0.13-1+b2 Debian
+libxaw7-dev 2:1.0.13-1+b2 Debian
+libxcb-cursor0 0.1.1-3 Debian
+libxcb-dpms0 1.12-3 repo.antixlinux.com
+libxcb-dri2-0 1.12-3 repo.antixlinux.com
+libxcb-dri2-0-dev 1.12-3 repo.antixlinux.com
+libxcb-dri3-0 1.12-3 repo.antixlinux.com
+libxcb-dri3-dev 1.12-3 repo.antixlinux.com
+libxcb-ewmh2 0.4.1-1 Debian
+libxcb-glx0 1.12-3 repo.antixlinux.com
+libxcb-glx0-dev 1.12-3 repo.antixlinux.com
+libxcb-icccm4 0.4.1-1 Debian
+libxcb-image0 0.4.0-1+b2 Debian
+libxcb-keysyms1 0.4.0-1+b2 Debian
+libxcb-present-dev 1.12-3 repo.antixlinux.com
+libxcb-present0 1.12-3 repo.antixlinux.com
+libxcb-randr0 1.12-3 repo.antixlinux.com
+libxcb-randr0-dev 1.12-3 repo.antixlinux.com
+libxcb-render-util0 0.3.9-1 Debian
+libxcb-render0 1.12-3 repo.antixlinux.com
+libxcb-render0-dev 1.12-3 repo.antixlinux.com
+libxcb-shape0 1.12-3 repo.antixlinux.com
+libxcb-shape0-dev 1.12-3 repo.antixlinux.com
+libxcb-shm0 1.12-3 repo.antixlinux.com
+libxcb-shm0-dev 1.12-3 repo.antixlinux.com
+libxcb-sync-dev 1.12-3 repo.antixlinux.com
+libxcb-sync1 1.12-3 repo.antixlinux.com
+libxcb-util0 0.3.8-3+b2 Debian
+libxcb-xfixes0 1.12-3 repo.antixlinux.com
+libxcb-xfixes0-dev 1.12-3 repo.antixlinux.com
+libxcb-xinerama0 1.12-3 repo.antixlinux.com
+libxcb-xkb1 1.12-3 repo.antixlinux.com
+libxcb-xrm0 1.0-2 Debian
+libxcb-xv0 1.12-3 repo.antixlinux.com
+libxcb1 1.12-3 repo.antixlinux.com
+libxcb1-dev 1.12-3 repo.antixlinux.com
+libxcomposite-dev 1:0.4.4-2 Debian
+libxcomposite1 1:0.4.4-2 Debian
+libxcursor-dev 1:1.1.14-1+deb9u2 Debian
+libxcursor1 1:1.1.14-1+deb9u2 Debian
+libxdamage-dev 1:1.1.4-2+b3 Debian
+libxdamage1 1:1.1.4-2+b3 Debian
+libxdmcp-dev 1:1.1.2-3 Debian
+libxdmcp6 1:1.1.2-3 Debian
+libxdo3 1:3.20160805.1-3 Debian
+libxdot4 2.38.0-17 Debian
+libxext-dev 2:1.3.3-1+b2 Debian
+libxext6 2:1.3.3-1+b2 Debian
+libxfce4panel-2.0-4 4.12.1-2 Debian
+libxfce4ui-1-0 4.12.1-2 Debian
+libxfce4ui-2-0 4.12.1-2 Debian
+libxfce4ui-common 4.12.1-2 Debian
+libxfce4util-common 4.12.1-3 Debian
+libxfce4util7 4.12.1-3 Debian
+libxfcegui4-4 4.10.0-3+b1 Debian
+libxfconf-0-2 4.12.1-1 Debian
+libxfixes-dev 1:5.0.3-1 Debian
+libxfixes3 1:5.0.3-1 Debian
+libxfont1 1:1.5.2-4 Debian
+libxfont2 1:2.0.1-3+deb9u1 Debian
+libxft-dev 2.3.2-1+b2 Debian
+libxft2 2.3.2-1+b2 Debian
+libxi-dev 2:1.7.9-1 Debian
+libxi6 2:1.7.9-1 Debian
+libxinerama-dev 2:1.1.3-1+b3 Debian
+libxinerama1 2:1.1.3-1+b3 Debian
+libxkbcommon-dev 0.7.1-2~deb9u1 Debian
+libxkbcommon-x11-0 0.7.1-2~deb9u1 Debian
+libxkbcommon0 0.7.1-2~deb9u1 Debian
+libxkbfile1 1:1.0.9-2 Debian
+libxklavier16 5.4-2 Debian
+libxml-libxml-perl 2.0128+dfsg-1+deb9u1 Debian
+libxml-libxml-simple-perl 0.97-1 Debian
+libxml-libxslt-perl 1.95-1+b1 Debian
+libxml-namespacesupport-perl 1.11-1 Debian
+libxml-parser-perl 2.44-2+b1 Debian
+libxml-sax-base-perl 1.07-1 Debian
+libxml-sax-perl 0.99+dfsg-2 Debian
+libxml-twig-perl 1:3.50-1 Debian
+libxml-writer-perl 0.625-1 Debian
+libxml2 2.9.4+dfsg1-2.2+deb9u2 Debian
+libxml2-dev 2.9.4+dfsg1-2.2+deb9u2 Debian
+libxml2-utils 2.9.4+dfsg1-2.2+deb9u2 Debian
+libxmmsclient6 0.8+dfsg-18 Debian
+libxmu-dev 2:1.1.2-2 Debian
+libxmu-headers 2:1.1.2-2 Debian
+libxmu6 2:1.1.2-2 Debian
+libxmuu1 2:1.1.2-2 Debian
+libxnvctrl0 390.116-1 Debian
+libxpm-dev 1:3.5.12-1 Debian
+libxpm4 1:3.5.12-1 Debian
+libxrandr-dev 2:1.5.1-1 Debian
+libxrandr2 2:1.5.1-1 Debian
+libxrender-dev 1:0.9.10-1 Debian
+libxrender1 1:0.9.10-1 Debian
+libxres1 2:1.0.7-1+b3 Debian
+libxshmfence-dev 1.2-1+b2 Debian
+libxshmfence1 1.2-1+b2 Debian
+libxslt1.1 1.1.29-2.1+deb9u1 Debian
+libxss-dev 1:1.2.2-1 Debian
+libxss1 1:1.2.2-1 Debian
+libxt-dev 1:1.1.5-1 Debian
+libxt6 1:1.1.5-1 Debian
+libxtables12 1.6.0+snapshot20161117-6 Debian
+libxtst-dev 2:1.2.3-1 Debian
+libxtst6 2:1.2.3-1 Debian
+libxv1 2:1.0.11-1 Debian
+libxvidcore4 2:1.3.4-1+b2 Debian
+libxvmc1 2:1.0.10-1 Debian
+libxxf86dga1 2:1.1.4-1+b3 Debian
+libxxf86vm-dev 1:1.1.4-1+b2 Debian
+libxxf86vm1 1:1.1.4-1+b2 Debian
+libyajl2 2.1.0-2+b3 Debian
+libyaml-0-2 0.1.7-2 Debian
+libyelp0 3.22.0-1 Debian
+libykpers-1-1 1.17.3-1 Debian
+libyubikey0 1.13-2 Debian
+libzbar0 0.10+doc-10.1 Debian
+libzip4 1.1.2-1.1+b1 Debian
+libzlcore-data 0.12.10dfsg2-2 Debian
+libzlcore0.13 0.12.10dfsg2-2+b1 Debian
+libzltext-data 0.12.10dfsg2-2 Debian
+libzltext0.13 0.12.10dfsg2-2+b1 Debian
+libzlui-qt4 0.12.10dfsg2-2+b1 Debian
+libzmq5 4.2.1-4+deb9u2 Debian
+libzvbi-common 0.2.35-13 Debian
+libzvbi0 0.2.35-13 Debian
+libzxcvbn0 2.3+dfsg-1~mx17+1 MX repository
+libzzip-0-13 0.13.62-3.2~deb9u1 Debian
+light-locker 1.7.0-3 Debian
+lightdm 1.18.3-1mx17+1 MX repository
+lightdm-gtk-greeter 2.0.2-1 Debian
+lightdm-gtk-greeter-mx17 18.12.04 MX repository
+lightdm-gtk-greeter-settings 1.2.1-2 Debian
+lightning 2:52.9.1-2~mx17+2 MX repository
+linux-base 4.5 Debian
+linux-headers-4.19.0-5-amd64 4.19.37-2~mx17+1 MX repository
+linux-headers-4.19.0-5-common 4.19.37-2~mx17+1 MX repository
+linux-image-4.19.0-5-amd64-unsigned 4.19.37-2~mx17+1 MX repository
+linux-kbuild-4.19 4.19.37-2~mx17+1 MX repository
+linux-libc-dev 4.19.37-2~mx17+1 MX repository
+live-kernel-updater 0.2.13 repo.antixlinux.com
+live-usb-cli-antix 0.3.2 repo.antixlinux.com
+live-usb-maker 0.3.8 repo.antixlinux.com
+llvm 1:3.8-36 Debian
+llvm-3.8 1:3.8.1-24 Debian
+llvm-3.8-runtime 1:3.8.1-24 Debian
+llvm-runtime 1:3.8-36 Debian
+lm-sensors 1:3.4.0-4 Debian
+lmodern 2.004.5-3 Debian
+locales 2.24-11+deb9u4 Debian
+lockfile-progs 0.1.17+b1 Debian
+login 1:4.4-4.1 Debian
+logrotate 3.11.0-0.1 Debian
+lp-solve 5.5.0.15-4+b1 Debian
+lsb-base 9.20161125 Debian
+lsb-release 9.20161125 Debian
+lshw 02.18-0.1 Debian
+lsof 4.89+dfsg-0.1 Debian
+luckybackup 0.4.9-1 repo.antixlinux.com
+luckybackup-data 0.4.9-1 repo.antixlinux.com
+lxappearance 0.6.3-1 Debian
+lxde-settings-daemon 0.5.3-2 Debian
+lxmenu-data 0.1.5-2 Debian
+lxrandr 0.3.1-1 Debian
+m17n-db 1.7.0-2 Debian
+m4 1.4.18-1 Debian
+make 4.1-9.1 Debian
+man-db 2.7.6.1-2 Debian
+manpages 4.10-2 Debian
+manpages-dev 4.10-2 Debian
+mawk 1.3.3-17+b3 Debian
+mbr 1.1.11-5.1 Debian
+mc 3:4.8.18-1 Debian
+mc-data 3:4.8.18-1 Debian
+melt 6.4.1-4 Debian
+memtest86+ 5.01-3 Debian
+menu 2.1.47+b1 Debian
+menu-xdg 0.5 Debian
+mercurial 4.0-1+deb9u1 Debian
+mercurial-common 4.0-1+deb9u1 Debian
+mesa-common-dev 18.2.6-1~mx17+1 MX repository
+mesa-utils 8.3.0-3 Debian
+mesa-va-drivers 18.2.6-1~mx17+1 MX repository
+mesa-vdpau-drivers 18.2.6-1~mx17+1 MX repository
+mime-support 3.60 Debian
+mlocate 0.26-2 Debian
+mobile-broadband-provider-info 20161204-1 Debian
+modemmanager 1.6.4-1 Debian
+module-assistant 0.11.9 Debian
+mono-4.0-gac 4.6.2.7+dfsg-1 Debian
+mono-gac 4.6.2.7+dfsg-1 Debian
+mono-runtime 4.6.2.7+dfsg-1 Debian
+mono-runtime-common 4.6.2.7+dfsg-1 Debian
+mono-runtime-sgen 4.6.2.7+dfsg-1 Debian
+most 5.0.0a-4 Debian
+mount 2.29.2-1+deb9u1 Debian
+mpg123 1.23.8-1+b1 Debian
+mplayer 2:1.3.0-6 Debian
+mpv 0.26.0-3mx17+1 MX repository
+mtools 4.0.18-2+b1 Debian
+mtr 0.87-1 Debian
+mugshot 0.3.1-1 Debian
+multiarch-support 2.24-11+deb9u4 Debian
+musepack-tools 2:0.1~r495-1+b1 Debian
+mx-antix-libs 0.4.3 MX repository
+mx-apps 19.02.01 MX repository
+mx-boot-options 19.9 MX repository
+mx-cleanup 19.9 MX repository
+mx-clocky 16.11mx17 MX repository
+mx-codecs 19.9.01 MX repository
+mx-conky 19.9.01 MX repository
+mx-conky-data 20181217.mx17 MX repository
+mx-docs 20190614mx18.3+1 MX repository
+mx-goodies 19.04.02 MX repository
+mx-greybird-themes 19.01mx18 MX repository
+mx-idevice-mounter 0.1.5.4 MX repository
+mx-installer 19.7.4 MX repository
+mx-iphone 0.1mx17 MX repository
+mx-iso-template 19.06 MX repository
+mx-menu-editor 19.9 MX repository
+mx-network-assistant 19.9.01 MX repository
+mx-packageinstaller 19.10.01 MX repository
+mx-remaster 19.02.01 MX repository
+mx-remastercc 19.9 MX repository
+mx-repo-list 19.6 MX repository
+mx-select-sound 19.9 MX repository
+mx-sound-theme-borealis 17.6mx16 MX repository
+mx-sound-theme-fresh-and-clean 16.12mx16 MX repository
+mx-switchuser 19.04 MX repository
+mx-system 19.05.02 MX repository
+mx-system-sounds 19.10 MX repository
+mx-timeset-gui 19.7mx18 MX repository
+mx-tools 19.9.02 MX repository
+mx-tweak-data 19.01.01 MX repository
+mx-usb-unmounter 19.08.01 MX repository
+mx-user 19.10.01 MX repository
+mx-viewer 19.10.01 MX repository
+mx-welcome 19.4 MX repository
+mx17-artwork 2.0.8 MX repository
+mx18-artwork 18.12.5 MX repository
+mysql-common 5.8+1.0.2 Debian
+mythes-en-us 1:5.2.5-1 Debian
+nano 2.7.4-1 Debian
+nautilus-data 3.22.3-1+deb9u1 Debian
+ncdu 1.12-1+b1 Debian
+ncurses-base 6.0+20161126-1+deb9u2 Debian
+ncurses-bin 6.0+20161126-1+deb9u2 Debian
+ncurses-doc 6.0+20161126-1+deb9u2 Debian
+ncurses-examples 6.0+20161126-1+deb9u2 Debian
+ncurses-hexedit 0.9.7-14.1+b1 Debian
+ncurses-term 6.0+20161126-1+deb9u2 Debian
+ndisgtk 0.8.5-1 Debian
+ndiswrapper 1.61-0.1~mx17+4 MX repository
+ndiswrapper-dkms 1.61-0.1~mx17+4 MX repository
+ndiswrapper-utils-1.9 1.61-0.1~mx17+4 MX repository
+neofetch 6.1.0-1~mx17+1 MX repository
+neovim 0.1.7-4+deb9u1 Debian
+neovim-runtime 0.1.7-4+deb9u1 Debian
+net-tools 1.60+git20161116.90da8a0-1 Debian
+netbase 5.4 Debian
+netcat-traditional 1.10-41+b1 Debian
+netselect 0.3.ds1-28+b1 Debian
+netselect-apt 0.3.ds1-28 Debian
+nettle-dev 3.3-1+b2 Debian
+network-manager 1.6.2-3+deb9u2 Debian
+network-manager-gnome 1.4.4-1+deb9u1 Debian
+network-manager-openconnect 1.2.4-1 Debian
+network-manager-openvpn 1.2.8-2 Debian
+network-manager-openvpn-gnome 1.2.8-2 Debian
+network-manager-pptp 1.2.4-2 Debian
+network-manager-vpnc 1.2.4-4+deb9u1 Debian
+nfs-common 1:1.3.4-2.1 Debian
+nfs-kernel-server 1:1.3.4-2.1 Debian
+nictools-pci 1.3.8-2+b1 Debian
+ninja-build 1.7.2-1 Debian
+nomacs 3.8.0+dfsg-1mx17+1 MX repository
+nomacs-l10n 3.8.0+dfsg-1mx17+1 MX repository
+normalize-audio 0.7.7-14+b1 Debian
+ntfs-3g 1:2016.2.22AR.1+dfsg-1+deb9u1 Debian
+ntp 1:4.2.8p10+dfsg-3+deb9u2 Debian
+ntpdate 1:4.2.8p10+dfsg-3+deb9u2 Debian
+ntrack-module-libnl-0 016-1.3 Debian
+numix-gtk-theme 2.6.6-1 Debian
+nvidia-detect 390.116-1 Debian
+nwipe 0.21-1 Debian
+obexfs 0.11-2+b1 Debian
+okular 4:16.08.2-1+deb9u1 Debian
+okular-extra-backends 4:16.08.2-1+deb9u1 Debian
+onboard 1.3.0-1 Debian
+onboard-common 1.3.0-1 Debian
+onboard-data 1.3.0-1 Debian
+openconnect 7.08-1 Debian
+openjdk-8-jre 8u232-b09-1~deb9u1 Debian
+openjdk-8-jre-headless 8u232-b09-1~deb9u1 Debian
+openssh-client 1:7.4p1-10+deb9u7 Debian
+openssl 1.1.0l-1~deb9u1 Debian
+openvpn 2.4.0-6+deb9u3 Debian
+optipng 0.7.6-1+deb9u1 Debian
+opus-tools 0.1.10-1 Debian
+orage 4.12.1-6~mx17+1 MX repository
+os-prober 1.76~deb9u1 Debian
+oxygen-icon-theme 5:5.28.0-1 Debian
+p11-kit 0.23.3-2 Debian
+p11-kit-modules 0.23.3-2 Debian
+p7zip 16.02+dfsg-3+deb9u1 Debian
+p7zip-full 16.02+dfsg-3+deb9u1 Debian
+pacpl 5.0.1-1mx17+1 MX repository
+pandoc 1.17.2~dfsg-3 Debian
+pandoc-data 1.17.2~dfsg-3 Debian
+papirus-icon-theme 20180816-1~mx17+2 MX repository
+parted 3.2-17 Debian
+partimage 0.6.9-4 Debian
+partition-info 1.10 repo.antixlinux.com
+passwd 1:4.4-4.1 Debian
+patch 2.7.5-1+deb9u2 Debian
+pavucontrol 3.0-3.1 Debian
+pciutils 1:3.5.2-1 Debian
+pcmanfm 1.2.5-3 Debian
+pcmciautils 018-8+b1 Debian
+pdfshuffler 0.6.0-8 Debian
+peg-e 1.2.2-1+b1 Debian
+perl 5.24.1-3+deb9u5 Debian
+perl-base 5.24.1-3+deb9u5 Debian
+perl-modules-5.24 5.24.1-3+deb9u5 Debian
+perl-openssl-defaults 3 Debian
+pfb2t1c2pfb 0.3-10+b1 Debian
+phonon 4:4.10.1-1~mx17+1 MX repository
+phonon-backend-gstreamer 4:4.9.0-1 Debian
+phonon-backend-gstreamer-common 4:4.9.0-1 Debian
+phonon4qt5 4:4.10.1-1~mx17+1 MX repository
+phonon4qt5-backend-vlc 0.10.1-2~mx17+1 MX repository
+pinentry-curses 1.0.0-2 Debian
+pinentry-gnome3 1.0.0-2 Debian
+pinentry-gtk2 1.0.0-2 Debian
+pinta 1.6-2 Debian
+pkg-config 0.29-4+b1 Debian
+pkg-mozilla-archive-keyring 1.1 repo.antixlinux.com
+plasma-scriptengine-javascript 4:16.08.3-2 Debian
+plymouth 0.9.2-4 Debian
+plymouth-themes 0.9.2-4 Debian
+plymouth-themes-mx 18.12.03 MX repository
+plymouth-x11 0.9.2-4 Debian
+pm-utils 1.4.1-17 Debian
+pmount 0.9.23-3+b2 Debian
+po-debconf 1.0.20 Debian
+policykit-1 0.105-18+deb9u1 Debian
+policykit-1-gnome 0.105-6mx17 MX repository
+poppler-data 0.4.7-8 Debian
+poppler-utils 0.48.0-2+deb9u2 Debian
+powermgmt-base 1.31+nmu1 Debian
+ppp 2.4.7-1+4 Debian
+pppoeconf 1.21 Debian
+pptp-linux 1.9.0+ds-1 Debian
+prerex 6.5.3-1+b2 Debian
+preview-latex-style 11.90-1 Debian
+printer-driver-brlaser 3-5+b1 Debian
+printer-driver-c2050 0.3b-7 Debian
+printer-driver-c2esp 27-3+b1 Debian
+printer-driver-cjet 0.8.9-6+b2 Debian
+printer-driver-cups-pdf 2.6.1-22 Debian
+printer-driver-dymo 1.4.0-6+b1 Debian
+printer-driver-escpr 1.6.11-1 Debian
+printer-driver-foo2zjs 20160902dfsg0-2+b1 Debian
+printer-driver-foo2zjs-common 20160902dfsg0-2 Debian
+printer-driver-gutenprint 5.2.11-1+b2 Debian
+printer-driver-hpcups 3.18.12+dfsg0-2~mx17+1 MX repository
+printer-driver-hpijs 3.18.12+dfsg0-2~mx17+1 MX repository
+printer-driver-m2300w 0.51-12+b1 Debian
+printer-driver-min12xxw 0.0.9-9+b1 Debian
+printer-driver-pnm2ppa 1.13-8 Debian
+printer-driver-postscript-hp 3.18.12+dfsg0-2~mx17+1 MX repository
+printer-driver-ptouch 1.4.2-2+b1 Debian
+printer-driver-pxljr 1.4+repack0-4+b2 Debian
+printer-driver-sag-gdi 0.1-4 Debian
+printer-driver-splix 2.0.0+svn315-6 Debian
+procps 2:3.3.12-3+deb9u1 Debian
+projectm-data 2.1.0+dfsg-4 Debian
+prosper 1.00.4+cvs.2007.05.01-4.1 Debian
+psmisc 22.21-2.1+b2 Debian
+pstoedit 3.70-3+b2 Debian
+psutils 1.17.dfsg-4 Debian
+pulseaudio 10.0-1+deb9u1 Debian
+pulseaudio-module-bluetooth 10.0-1+deb9u1 Debian
+pulseaudio-utils 10.0-1+deb9u1 Debian
+purifyeps 1.1-2 Debian
+pv 1.6.0-1+b1 Debian
+python 2.7.13-2 Debian
+python-all 2.7.13-2 Debian
+python-apsw 3.13.0-r1-1 Debian
+python-apt 1.4.0~beta3 Debian
+python-apt-common 1.4.0~beta3 Debian
+python-bluez 0.22-1 Debian
+python-bs4 4.5.3-1 Debian
+python-cairo 1.8.8-2.2 Debian
+python-cffi-backend 1.9.1-2 Debian
+python-chardet 2.3.0-2 Debian
+python-cherrypy3 3.5.0-2 Debian
+python-configobj 5.0.6-2 Debian
+python-crypto 2.6.1-7 Debian
+python-cryptography 1.7.1-3+deb9u1 Debian
+python-css-parser 1.0.4-1~mx17+1 MX repository
+python-cssselect 1.0.1-1 Debian
+python-cssutils 1.0-4.1 Debian
+python-dateutil 2.5.3-2 Debian
+python-dbus 1.2.4-1+b1 Debian
+python-debian 0.1.30 Debian
+python-dnspython 1.15.0-1+deb9u1 Debian
+python-enum34 1.1.6-1 Debian
+python-feedparser 5.1.3-3 Debian
+python-gconf 2.28.1+dfsg-1.2 Debian
+python-gi 3.22.0-2 Debian
+python-gi-cairo 3.22.0-2 Debian
+python-glade2 2.24.0-5.1 Debian
+python-gnome2 2.28.1+dfsg-1.2 Debian
+python-gobject 3.22.0-2 Debian
+python-gobject-2 2.28.6-13 Debian
+python-gtk2 2.24.0-5.1 Debian
+python-html2text 2016.9.19-1 Debian
+python-html5-parser 0.4.3-1~mx17+1 MX repository
+python-html5lib 0.999999999-1 Debian
+python-idna 2.2-1 Debian
+python-imaging 4.0.0-4 Debian
+python-imobiledevice 1.2.0+mx17-1 MX repository
+python-ipaddress 1.0.17-1 Debian
+python-ldb 2:1.1.27-1+deb9u1 Debian
+python-libuser 1:0.62~dfsg-0.1 Debian
+python-lxml 4.1.0-1~mx17+1 MX repository
+python-markdown 2.6.8-1 Debian
+python-mechanize 1:0.2.5-3 Debian
+python-minimal 2.7.13-2 Debian
+python-msgpack 0.5.6-1~mx17+1 MX repository
+python-netifaces 0.10.4-0.1+b2 Debian
+python-numpy 1:1.12.1-3 Debian
+python-openssl 16.2.0-1 Debian
+python-pil 4.0.0-4 Debian
+python-pil.imagetk 4.0.0-4 Debian
+python-pip 9.0.1-2+deb9u1 Debian
+python-pip-whl 9.0.1-2+deb9u1 Debian
+python-pkg-resources 33.1.1-1 Debian
+python-plist 1.12+git+1+e37ca00-0.3 Debian
+python-poppler 0.12.1-9 Debian
+python-psutil 5.0.1-1 Debian
+python-pyasn1 0.1.9-2 Debian
+python-pyorbit 2.24.0-7.2 Debian
+python-pyparsing 2.1.10+dfsg1-1 Debian
+python-pypdf2 1.26.0-2 Debian
+python-pyqt5 5.7+dfsg-5 Debian
+python-pyqt5.qtsvg 5.7+dfsg-5 Debian
+python-pyqt5.qtwebkit 5.7+dfsg-5 Debian
+python-regex 0.1.20170117-1 Debian
+python-repoze.lru 0.6-6 Debian
+python-routes 2.3.1-2 Debian
+python-rsvg 2.32.0+dfsg-3 Debian
+python-samba 2:4.5.16+dfsg-1+deb9u2 Debian
+python-setuptools 33.1.1-1 Debian
+python-sip 4.18.1+dfsg-2 Debian
+python-six 1.10.0-3 Debian
+python-smbc 1.0.15.6-1 Debian
+python-talloc 2.1.8-1 Debian
+python-tdb 1.3.11-2 Debian
+python-tk 2.7.13-1 Debian
+python-webencodings 0.5-2 Debian
+python-wheel 0.29.0-2 Debian
+python-xapian 1.4.3-1 Debian
+python2.7 2.7.13-2+deb9u3 Debian
+python2.7-minimal 2.7.13-2+deb9u3 Debian
+python3 3.5.3-1 Debian
+python3-apt 1.4.0~beta3 Debian
+python3-cairo 1.10.0+dfsg-5+b1 Debian
+python3-chardet 2.3.0-2 Debian
+python3-cups 1.9.73-1 Debian
+python3-cupshelpers 1.5.7-3 Debian
+python3-dbus 1.2.4-1+b1 Debian
+python3-debian 0.1.30 Debian
+python3-distutils-extra 2.40 Debian
+python3-gi 3.22.0-2 Debian
+python3-gi-cairo 3.22.0-2 Debian
+python3-minimal 3.5.3-1 Debian
+python3-pexpect 4.2.1-1 Debian
+python3-pil 4.0.0-4 Debian
+python3-pip 9.0.1-2+deb9u1 Debian
+python3-pkg-resources 33.1.1-1 Debian
+python3-ptyprocess 0.5.1-1 Debian
+python3-pycurl 7.43.0-2 Debian
+python3-pyqt5 5.7+dfsg-5 Debian
+python3-reportlab 3.3.0-2 Debian
+python3-reportlab-accel 3.3.0-2 Debian
+python3-requests 2.12.4-1 Debian
+python3-setuptools 33.1.1-1 Debian
+python3-sip 4.18.1+dfsg-2 Debian
+python3-six 1.10.0-3 Debian
+python3-software-properties 0.96.20.2-1 Debian
+python3-urllib3 1.19.1-1 Debian
+python3-wheel 0.29.0-2 Debian
+python3.5 3.5.3-1+deb9u1 Debian
+python3.5-minimal 3.5.3-1+deb9u1 Debian
+qbittorrent 4.1.4-0.1~mx17+1 MX repository
+qdbus 4:4.8.7+dfsg-11 Debian
+qml-module-qtgraphicaleffects 5.7.1~20161021-3 Debian
+qml-module-qtquick-controls 5.7.1~20161021-2 Debian
+qml-module-qtquick-layouts 5.7.1-2+b2 Debian
+qml-module-qtquick-window2 5.7.1-2+b2 Debian
+qml-module-qtquick2 5.7.1-2+b2 Debian
+qpdfview 0.4.14-1+b1 Debian
+qpdfview-djvu-plugin 0.4.14-1+b1 Debian
+qpdfview-ps-plugin 0.4.14-1+b1 Debian
+qpdfview-translations 0.4.14-1 Debian
+qt5-gtk-platformtheme 5.7.1+dfsg-3+deb9u1 Debian
+qt5-image-formats-plugins 5.7.1~20161021-2 Debian
+qt5-style-plugins 5.0.0+git16.g7aa4764-1 Debian
+qtchooser 63-g13a3d08-1 Debian
+qtcore4-l10n 4:4.8.7+dfsg-11 Debian
+quilt 0.63-8.2~mx17+1 MX repository
+rake 10.5.0-2 Debian
+rarian-compat 0.8.1-6+b1 Debian
+read-edid 3.0.2-1+b1 Debian
+readline-common 7.0-3 Debian
+realpath 8.26-3 Debian
+recode 3.6-23 Debian
+redshift 1.12-2~mx17+2 MX repository
+reiser4progs 1.1.0-3 Debian
+reiserfsprogs 1:3.6.25-4+b1 Debian
+resolvconf 1.79 Debian
+rfkill 0.5-1+b1 Debian
+rofi 1.5.4-0.1~mx17+1 MX repository
+rpcbind 0.2.3-0.6 Debian
+rpl 1.5.7-1 Debian
+rsync 3.1.2-1+deb9u2 Debian
+rsyslog 8.24.0-1 Debian
+ruby 1:2.3.3 Debian
+ruby-did-you-mean 1.0.0-2 Debian
+ruby-minitest 5.9.0-1 Debian
+ruby-net-telnet 0.1.1-2 Debian
+ruby-power-assert 0.3.0-1 Debian
+ruby-test-unit 3.1.7-2 Debian
+ruby2.3 2.3.3-1+deb9u6 Debian
+rubygems-integration 1.11 Debian
+samba 2:4.5.16+dfsg-1+deb9u2 Debian
+samba-common 2:4.5.16+dfsg-1+deb9u2 Debian
+samba-common-bin 2:4.5.16+dfsg-1+deb9u2 Debian
+samba-libs 2:4.5.16+dfsg-1+deb9u2 Debian
+sane-utils 1.0.25-4.1 Debian
+scrollkeeper 0.8.1-6 Debian
+scrot 0.8-18 Debian
+sdparm 1.08-1+b1 Debian
+seahorse 3.20.0-3.1 Debian
+sed 4.4-1 Debian
+sensible-utils 0.0.9+deb9u1 Debian
+sgml-base 1.29 Debian
+sgml-data 2.0.10 Debian
+shared-mime-info 1.8-1+deb9u1 Debian
+sharutils 1:4.15.2-2+deb9u1 Debian
+shellcheck 0.4.4-4 Debian
+silversearcher-ag 1.0.2-1 Debian
+simple-scan 3.23.2-1 Debian
+simplescreenrecorder 0.3.8-2 Debian
+smartmontools 6.5+svn4324-1 Debian
+smbclient 2:4.5.16+dfsg-1+deb9u2 Debian
+smtube 19.6.0-0.1~mx17+1 repo.antixlinux.com
+smxi-inxi-antix 0.4.18 repo.antixlinux.com
+sndfile-programs 1.0.27-3 Debian
+socat 1.7.3.1-2+deb9u1 Debian
+software-properties-common 0.96.20.2-1 Debian
+soprano-daemon 2.9.4+dfsg-5 Debian
+sound-theme-freedesktop 0.8-1mx17+1 MX repository
+sox 14.4.1-5+deb9u2 Debian
+speex 1.2~rc1.2-1+b2 Debian
+spotify-client 1:1.1.10.546.ge08ef575-19 Spotify LTD
+squashfs-tools 1:4.3-3+deb9u1 Debian
+sshfs 2.8-1 Debian
+ssl-cert 1.0.39 Debian
+startpar 0.59-3.1 Debian
+strace 4.15-2 Debian
+suckless-tools 42-2 Debian
+sudo 1.8.19p1-2.1+deb9u1 Debian
+swell-foop 1:3.22.2-1 Debian
+synaptic 0.84.2 Debian
+syslinux 3:6.03+dfsg-14.1+deb9u1 Debian
+syslinux-common 3:6.03+dfsg-14.1+deb9u1 Debian
+syslinux-utils 3:6.03+dfsg-14.1+deb9u1 Debian
+system-config-printer 1.5.7-3 Debian
+system-config-printer-common 1.5.7-3 Debian
+system-config-printer-udev 1.5.7-3+b1 Debian
+system-config-samba 1.2.63-1mx17+1 MX repository
+system-tools-backends 2.10.2-3+b1 Debian
+systemd 232-25+deb9u12 Debian
+systemd-shim 10-3 Debian
+sysv-rc 2.88dsf-59.9 Debian
+sysv-rc-conf 0.99-7 Debian
+sysvinit-core 2.88dsf-59.9 Debian
+sysvinit-utils 2.88dsf-59.9 Debian
+t1utils 1.39-2 Debian
+tango-icon-theme 0.8.90-6 Debian
+tar 1.29b-1.1 Debian
+tcl 8.6.0+9 Debian
+tcl-dev 8.6.0+9 Debian
+tcl8.6 8.6.6+dfsg-1+b1 Debian
+tcl8.6-dev 8.6.6+dfsg-1+b1 Debian
+tcpd 7.6.q-26 Debian
+tdb-tools 1.3.11-2 Debian
+telnet 0.17-41 Debian
+terminator 1.90+bzr-1705-1 Debian
+testdisk 7.0-3 Debian
+tex-common 6.06 Debian
+tex-gyre 20160520-1 Debian
+texinfo 6.3.0.dfsg.1-1+b2 Debian
+texlive-base 2016.20170123-5 Debian
+texlive-bibtex-extra 2016.20170123-5 Debian
+texlive-binaries 2016.20160513.41080.dfsg-2+deb9u1 Debian
+texlive-extra-utils 2016.20170123-5 Debian
+texlive-font-utils 2016.20170123-5 Debian
+texlive-fonts-extra 2016.20170123-5 Debian
+texlive-fonts-extra-doc 2016.20170123-5 Debian
+texlive-fonts-recommended 2016.20170123-5 Debian
+texlive-fonts-recommended-doc 2016.20170123-5 Debian
+texlive-formats-extra 2016.20170123-5 Debian
+texlive-full 2016.20170123-5 Debian
+texlive-games 2016.20170123-5 Debian
+texlive-generic-extra 2016.20170123-5 Debian
+texlive-generic-recommended 2016.20170123-5 Debian
+texlive-htmlxml 2016.20170123-5 Debian
+texlive-humanities 2016.20170123-5 Debian
+texlive-humanities-doc 2016.20170123-5 Debian
+texlive-lang-african 2016.20170123-5 Debian
+texlive-lang-arabic 2016.20170123-5 Debian
+texlive-lang-chinese 2016.20170123-5 Debian
+texlive-lang-cjk 2016.20170123-5 Debian
+texlive-lang-cyrillic 2016.20170123-5 Debian
+texlive-lang-czechslovak 2016.20170123-5 Debian
+texlive-lang-english 2016.20170123-5 Debian
+texlive-lang-european 2016.20170123-5 Debian
+texlive-lang-french 2016.20170123-5 Debian
+texlive-lang-german 2016.20170123-5 Debian
+texlive-lang-greek 2016.20170123-5 Debian
+texlive-lang-indic 2016.20170123-5 Debian
+texlive-lang-italian 2016.20170123-5 Debian
+texlive-lang-japanese 2016.20170123-5 Debian
+texlive-lang-korean 2016.20170123-5 Debian
+texlive-lang-other 2016.20170123-5 Debian
+texlive-lang-polish 2016.20170123-5 Debian
+texlive-lang-portuguese 2016.20170123-5 Debian
+texlive-lang-spanish 2016.20170123-5 Debian
+texlive-latex-base 2016.20170123-5 Debian
+texlive-latex-base-doc 2016.20170123-5 Debian
+texlive-latex-extra 2016.20170123-5 Debian
+texlive-latex-extra-doc 2016.20170123-5 Debian
+texlive-latex-recommended 2016.20170123-5 Debian
+texlive-latex-recommended-doc 2016.20170123-5 Debian
+texlive-luatex 2016.20170123-5 Debian
+texlive-metapost 2016.20170123-5 Debian
+texlive-metapost-doc 2016.20170123-5 Debian
+texlive-music 2016.20170123-5 Debian
+texlive-omega 2016.20170123-5 Debian
+texlive-pictures 2016.20170123-5 Debian
+texlive-pictures-doc 2016.20170123-5 Debian
+texlive-plain-extra 2016.20170123-5 Debian
+texlive-pstricks 2016.20170123-5 Debian
+texlive-pstricks-doc 2016.20170123-5 Debian
+texlive-publishers 2016.20170123-5 Debian
+texlive-publishers-doc 2016.20170123-5 Debian
+texlive-science 2016.20170123-5 Debian
+texlive-science-doc 2016.20170123-5 Debian
+texlive-xetex 2016.20170123-5 Debian
+thunar 1.6.15-1~mx17 MX repository
+thunar-archive-plugin 0.3.1-4 Debian
+thunar-data 1.6.15-1~mx17 MX repository
+thunar-gtkhash 0.7.0-4 Debian
+thunar-volman 0.8.1-2 Debian
+thunderbird 2:52.9.1-2~mx17+2 MX repository
+time 1.7-25.1+b1 Debian
+timeshift 18.9+ds-1~mx17+1 MX repository
+tipa 2:1.3-20 Debian
+tk 8.6.0+9 Debian
+tk-dev 8.6.0+9 Debian
+tk8.6 8.6.6-1+b1 Debian
+tk8.6-blt2.5 2.5.3+dfsg-3 Debian
+tk8.6-dev 8.6.6-1+b1 Debian
+tlp 1.1-1~mx17+1 repo.antixlinux.com
+tmux 2.4~git20170318-1.1 repo.antixlinux.com
+traceroute 1:2.1.0-2 Debian
+transmission-common 2.92-2+deb9u1 Debian
+trash-cli 0.12.9.14-2.1 Debian
+tree 1.7.0-5 Debian
+ttf-adf-accanthis 0.20090423-2 Debian
+ttf-adf-gillius 0.20090423-2 Debian
+ttf-adf-universalis 0.20090423-2 Debian
+ttf-bitstream-vera 1.10-8 Debian
+ttf-freefont 20120503-6 Debian
+ttf-mscorefonts-installer 3.6 Debian
+tumbler 0.1.31-2+b3 Debian
+tumbler-common 0.1.31-2 Debian
+tumbler-plugins-extra 0.1.31-2+b3 Debian
+tzdata 2019c-0+deb9u1 Debian
+ucf 3.0036 Debian
+udev 232-25+deb9u12 Debian
+udevil 0.4.4-1+b1 Debian
+udisks2 2.1.8-1 Debian
+ufw 0.35-4 Debian
+unattended-upgrades 0.93.1+nmu1 Debian
+unclutter 8-20+b1 Debian
+uno-libs3 6.0.1-1~bpo9+1 MX repository
+unpaper 6.1-2+b1 Debian
+unrar 1:5.6.6-1~mx17+1 MX repository
+unzip 6.0-21+deb9u2 Debian
+update-inetd 4.44 Debian
+upower 0.99.4-4+b1 Debian
+ure 6.0.1-1~bpo9+1 MX repository
+usb-modeswitch 2.5.0+repack0-1 Debian
+usb-modeswitch-data 20170120-1 Debian
+usbmuxd 1.1.0-3mx17+2 MX repository
+usbutils 1:007-4+deb9u1 Debian
+uswsusp 1.0+20120915-6.1+b1 Debian
+util-linux 2.29.2-1+deb9u1 Debian
+uuid-dev 2.29.2-1+deb9u1 Debian
+va-driver-all 2.3.0-2~mx17+1 MX repository
+vbetool 1.1-4 Debian
+vcdimager 0.7.24+dfsg-0.2 Debian
+vdpau-driver-all 1.1.1-6 Debian
+vim-common 2:8.0.0197-4+deb9u3 Debian
+vim-tiny 2:8.0.0197-4+deb9u3 Debian
+virtualbox-guest-dkms 5.2.24-dfsg-4~mx17+1 repo.antixlinux.com
+virtualbox-guest-utils 5.2.24-dfsg-4~mx17+1 repo.antixlinux.com
+virtualbox-guest-x11 5.2.24-dfsg-4~mx17+1 repo.antixlinux.com
+vlc 3.0.8-2mx17+2 MX repository
+vlc-bin 3.0.8-2mx17+2 MX repository
+vlc-data 3.0.8-2mx17+2 MX repository
+vlc-l10n 3.0.8-2mx17+2 MX repository
+vlc-plugin-base 3.0.8-2mx17+2 MX repository
+vlc-plugin-notify 3.0.8-2mx17+2 MX repository
+vlc-plugin-qt 3.0.8-2mx17+2 MX repository
+vlc-plugin-samba 3.0.8-2mx17+2 MX repository
+vlc-plugin-skins2 3.0.8-2mx17+2 MX repository
+vlc-plugin-video-output 3.0.8-2mx17+2 MX repository
+vlc-plugin-video-splitter 3.0.8-2mx17+2 MX repository
+vlc-plugin-visualization 3.0.8-2mx17+2 MX repository
+volumeicon-alsa 0.5.1+git20170117-1mx17+1 repo.antixlinux.com
+vorbis-tools 1.4.0-10+b1 Debian
+vpnc 0.5.3r550-3 Debian
+vpnc-scripts 0.1~git20160829-1 Debian
+vrms 1.17 Debian
+wamerican 7.1-1 Debian
+wavpack 5.0.0-2+deb9u2 Debian
+wayland-protocols 1.13-1~mx17+1 MX repository
+wget 1.18-5+deb9u3 Debian
+whiptail 0.52.19-1+b1 Debian
+whois 5.2.17~deb9u1 Debian
+wireless-tools 30~pre9-12+b1 Debian
+wmctrl 1.07-7+b1 Debian
+wodim 9:1.1.11-3+b2 Debian
+wordnet 1:3.0-33+b1 Debian
+wordnet-base 1:3.0-33 Debian
+wpasupplicant 2:2.4-1+deb9u4 Debian
+wvdial 1.61-4.1 repo.antixlinux.com
+x11-apps 7.7+6+b1 Debian
+x11-common 1:7.7+19 Debian
+x11-session-utils 7.7+2+b1 Debian
+x11-utils 7.7+3+b1 Debian
+x11-xfs-utils 7.7+2+b1 Debian
+x11-xkb-utils 7.7+3+b1 Debian
+x11-xserver-utils 7.7+7+b1 Debian
+x11proto-composite-dev 1:0.4.2-2 Debian
+x11proto-core-dev 7.0.31-1 Debian
+x11proto-damage-dev 1:1.2.1-2 Debian
+x11proto-dri2-dev 2.8-2 Debian
+x11proto-fixes-dev 1:5.0-2 Debian
+x11proto-gl-dev 1.4.17-1 Debian
+x11proto-input-dev 2.3.2-1 Debian
+x11proto-kb-dev 1.0.7-1 Debian
+x11proto-randr-dev 1.5.0-1 Debian
+x11proto-record-dev 1.14.2-1 Debian
+x11proto-render-dev 2:0.11.1-2 Debian
+x11proto-scrnsaver-dev 1.2.2-1 Debian
+x11proto-xext-dev 7.3.0-1 Debian
+x11proto-xf86vidmode-dev 2.3.1-2 Debian
+x11proto-xinerama-dev 1.2.1-2 Debian
+xauth 1:1.0.9-1+b2 Debian
+xaw3dg 1.5+E-18.2 Debian
+xaw3dg-dev 1.5+E-18.2 Debian
+xbindkeys 1.8.6-1+b1 Debian
+xbitmaps 1.1.1-2 Debian
+xcape 1.1-1+b1 Debian
+xclip 0.12+svn84-4+b1 Debian
+xdelta3 3.0.11-dfsg-1+b1 Debian
+xdg-desktop-portal 1.0-1~mx17+1 MX repository
+xdg-desktop-portal-gtk 0.5-1 Debian
+xdg-user-dirs 0.15-2+b1 Debian
+xdg-user-dirs-gtk 0.10-1+b1 Debian
+xdg-utils 1.1.1-1+deb9u1 Debian
+xdotool 1:3.20160805.1-3 Debian
+xf86-video-sis-antix 0.1.0 repo.antixlinux.com
+xfburn 0.5.5-1~mx17+1 MX repository
+xfce-keyboard-shortcuts 4.12.1-2 Debian
+xfce4-appfinder 4.12.0-2 Debian
+xfce4-battery-plugin 1.1.0-1 Debian
+xfce4-cellmodem-plugin 1:0.0.5-5mx17+1 MX repository
+xfce4-cpufreq-plugin 1.1.3-1 Debian
+xfce4-cpugraph-plugin 1.0.5-1+b1 Debian
+xfce4-datetime-plugin 0.7.0-1 Debian
+xfce4-dict 0.7.2-1 Debian
+xfce4-diskperf-plugin 2.5.5-1+b1 Debian
+xfce4-fsguard-plugin 1.0.2-1+b1 Debian
+xfce4-genmon-plugin 3.4.0-2+b1 Debian
+xfce4-messenger-plugin 0.1.0-6+b1 Debian
+xfce4-mount-plugin 0.6.7-1+b1 Debian
+xfce4-netload-plugin 1.2.4-2 Debian
+xfce4-notes 1.8.1-1 Debian
+xfce4-notes-plugin 1.8.1-1 Debian
+xfce4-notifyd 0.4.0-0mx17+1 MX repository
+xfce4-panel 4.12.1-2 Debian
+xfce4-places-plugin 1.7.0-3 Debian
+xfce4-power-manager 1.4.4-4 Debian
+xfce4-power-manager-data 1.4.4-4 Debian
+xfce4-power-manager-plugins 1.4.4-4 Debian
+xfce4-pulseaudio-plugin 0.2.4-1 Debian
+xfce4-quicklauncher-plugin 1.9.4-11+b1 Debian
+xfce4-screenshooter 1.8.2-2 Debian
+xfce4-screenshooter-plugin 1.8.2-2 Debian
+xfce4-sensors-plugin 1.2.6-1+b1 Debian
+xfce4-session 4.12.1-5 Debian
+xfce4-settings 4.12.3-1~mx17+1 MX repository
+xfce4-smartbookmark-plugin 0.4.6-2 Debian
+xfce4-systemload-plugin 1.1.2-1+b1 Debian
+xfce4-taskmanager 1.1.0-1 Debian
+xfce4-terminal 0.8.3-1 Debian
+xfce4-timer-plugin 1.6.0-1+b1 Debian
+xfce4-verve-plugin 1.1.0-1 Debian
+xfce4-wavelan-plugin 0.6.0-1 Debian
+xfce4-weather-plugin 0.9.0-1~mx17+1 MX repository
+xfce4-whiskermenu-plugin 1.7.5-0.1~mx17+1 MX repository
+xfce4-xkb-plugin 1:0.7.1-2+b1 Debian
+xfconf 4.12.1-1 Debian
+xfdesktop4 4.12.3-4mx17+1 MX repository
+xfdesktop4-data 4.12.3-4mx17+1 MX repository
+xfonts-100dpi 1:1.0.4+nmu1 Debian
+xfonts-75dpi 1:1.0.4+nmu1 Debian
+xfonts-base 1:1.0.4+nmu1 Debian
+xfonts-encodings 1:1.0.4-2 Debian
+xfonts-scalable 1:1.0.3-1.1 Debian
+xfonts-utils 1:7.7+4 Debian
+xfsprogs 4.9.0+nmu1 Debian
+xfwm4 4.12.4-2~mx17+1 MX repository
+xinit 1.3.4-3+b1 Debian
+xinput 1.6.2-1+b1 Debian
+xkb-data 2.19-1+deb9u1 Debian
+xml-core 0.17 Debian
+xorg 1:7.7+19 Debian
+xorg-docs-core 1:1.7.1-1 Debian
+xorg-sgml-doctools 1:1.11-1 Debian
+xorriso 1.4.6-1+b1 Debian
+xsel 1.2.0-2+b1 Debian
+xserver-common 2:1.19.2-1+deb9u5 Debian
+xserver-xorg 1:7.7+19 Debian
+xserver-xorg-core 2:1.19.2-1+deb9u5 Debian
+xserver-xorg-input-all 1:7.7+19 Debian
+xserver-xorg-input-evdev 1:2.10.5-1 Debian
+xserver-xorg-input-joystick 1:1.6.3-1+b1 Debian
+xserver-xorg-input-kbd 1:1.9.0-1+b1 Debian
+xserver-xorg-input-libinput 0.23.0-2 Debian
+xserver-xorg-input-mouse 1:1.9.2-1+b1 Debian
+xserver-xorg-input-synaptics 1.9.0-1+b1 Debian
+xserver-xorg-input-wacom 0.34.0-1 Debian
+xserver-xorg-legacy 2:1.19.2-1+deb9u5 Debian
+xserver-xorg-video-all 1:7.7+19 Debian
+xserver-xorg-video-amdgpu 18.1.0-1~mx17+1 MX repository
+xserver-xorg-video-ati 1:18.1.0-1~mx17+1 MX repository
+xserver-xorg-video-cirrus 1:1.5.3-1+b2 Debian
+xserver-xorg-video-fbdev 1:0.4.4-1+b5 Debian
+xserver-xorg-video-intel 2:2.99.917+git20180925-2~mx17+1 MX repository
+xserver-xorg-video-mach64 6.9.5-1+b2 Debian
+xserver-xorg-video-mga 1:1.6.5-1 Debian
+xserver-xorg-video-neomagic 1:1.2.9-1+b2 Debian
+xserver-xorg-video-nouveau 1:1.0.15-3~mx17+1 MX repository
+xserver-xorg-video-r128 6.10.2-1 Debian
+xserver-xorg-video-radeon 1:18.1.0-1~mx17+1 MX repository
+xserver-xorg-video-savage 1:2.3.9-1 Debian
+xserver-xorg-video-siliconmotion 1:1.7.9-2 Debian
+xserver-xorg-video-sisusb 1:0.9.7-1 Debian
+xserver-xorg-video-tdfx 1:1.4.7-1 Debian
+xserver-xorg-video-trident 1:1.3.8-1 Debian
+xserver-xorg-video-vesa 1:2.3.4-1+b2 Debian
+xserver-xorg-video-vmware 1:13.2.1-1+b1 Debian
+xtrans-dev 1.3.5-1 Debian
+xutils 1:7.7+19 Debian
+xutils-dev 1:7.7+5+b1 Debian
+xxd 2:8.0.0197-4+deb9u3 Debian
+xz-utils 5.2.2-1.2+b1 Debian
+yad 0.38.2-1 Debian
+yelp 3.22.0-1 Debian
+yelp-xsl 3.20.1-2 Debian
+youtube-dl 1:2019.09.28-1~mx17+1 repo.antixlinux.com
+zathura 0.3.7-1 Debian
+zathura-pdf-poppler 0.2.7-1 Debian
+zenity 3.22.0-1+b1 Debian
+zenity-common 3.22.0-1 Debian
+zip 3.0-11+b1 Debian
+zlib1g 1:1.2.8.dfsg-5 Debian
+zlib1g-dev 1:1.2.8.dfsg-5 Debian
+zsync 0.6.2-2+b1 Debian

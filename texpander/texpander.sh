@@ -29,40 +29,41 @@ path="${base_dir}/${name}"
 
 if [ -f "${base_dir}/${name}" ]
 then
-  if [ -e "$path" ]
-  then
-    # Preserve the current value of the clipboard
-    clipboard=$(xsel -b -o)
+    if [ -e "$path" ]
+    then
+        # Preserve the current value of the clipboard
+        clipboard=$(xsel -b -o)
 
-    # Put text in primary buffer for Shift+Insert pasting
-    echo -n "$(cat "$path")" | xsel -p -i
+        # Put text in primary buffer for Shift+Insert pasting
+        echo -n "$(cat "$path")" | xsel -p -i
 
-    # Put text in clipboard selection for apps like Firefox that
-    # insist on using the clipboard for all pasting
-    echo -n "$(cat "$path")" | xsel -b -i
+        # Put text in clipboard selection for apps like Firefox that
+        # insist on using the clipboard for all pasting
+        echo -n "$(cat "$path")" | xsel -b -i
 
-    # Paste text into current active window
-    # https://github.com/leehblue/texpander/issues/31#issuecomment-406825663
-    # sleep 0.3
-    xdotool key shift+Insert space
+        # Paste text into current active window
+        # https://github.com/leehblue/texpander/issues/31#issuecomment-406825663
+        # sleep 0.3
+        xdotool key shift+Insert space
+        # xdotool key shift+Insert
 
-    # If you're having trouble pasting into apps, use xdotool
-    # to type into the app instead. This is a little bit slower
-    # but may work better with some applications.
-    #
-    # Make xdotool type RETURN instead of LINEFEED characters
-    # otherwise some apps like Gmail in Firefox won't recognize
-    # newline characters.
-    #
-    # To use this, comment out line #32 (xdotool key shift+Insert)
-    # and uncomment the line below.
-    #xdotool type -- "$(xsel -bo | tr \\n \\r | sed s/\\r*\$//)"
+        # If you're having trouble pasting into apps, use xdotool
+        # to type into the app instead. This is a little bit slower
+        # but may work better with some applications.
+        #
+        # Make xdotool type RETURN instead of LINEFEED characters
+        # otherwise some apps like Gmail in Firefox won't recognize
+        # newline characters.
+        #
+        # To use this, comment out line #32 (xdotool key shift+Insert)
+        # and uncomment the line below.
+        #xdotool type -- "$(xsel -bo | tr \\n \\r | sed s/\\r*\$//)"
 
-    # Restore the original value of the clipboard
-    sleep 0.5
-    echo $clipboard | xsel -b -i
+        # Restore the original value of the clipboard
+        sleep 0.5
+        echo $clipboard | xsel -b -i
 
-  else
-    zenity --error --text="Abbreviation not found:\n${name}"
-  fi
+    else
+        zenity --error --text="Abbreviation not found:\n${name}"
+    fi
 fi

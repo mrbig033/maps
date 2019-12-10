@@ -1,0 +1,2 @@
+# Debian stretch Updates
+deb http://alcateia.ufscar.br/debian/ stretch-updates main contrib non-free

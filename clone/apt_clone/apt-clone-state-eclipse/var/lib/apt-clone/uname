@@ -1,0 +1,4 @@
+kernel: 4.19.0-5-amd64
+hostname: eclipse
+uname_arch: x86_64
+arch: amd64

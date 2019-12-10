@@ -1,0 +1,5 @@
+$ sudo apt-clone clone ~/maps/my_packages
+not installable: bat, fd, libmpc3, simplenote, libmpfr6, nnn
+version mismatch: mx-tweak, mx-repo-manager, google-chrome-stable, mx-snapshot, mx-live-usb-maker, nodejs, mx-bootrepair, mx-packageinstaller-pkglist
+
+Note that you can use --with-dpkg-repack to include those packges in the clone file.
